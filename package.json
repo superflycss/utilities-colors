@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Color utilities",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -48,6 +48,6 @@
     "onchange": "^3.2.1"
   },
   "dependencies": {
-    "@superflycss/variables-colors": "file:../variables-colors"
+    "@superflycss/variables-colors": "^2.0.1"
   }
 }
