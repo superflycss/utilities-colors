@@ -1,71 +1,62 @@
 @import "@superflycss/foundation";
+@import "../../main/css/index.css";
 @import "@superflycss/component-display";
+@import "@superflycss/component-header";
+@import "@superflycss/component-test";
+@import "@superflycss/utilities-layout";
+@import "@superflycss/utilities-format";
+@import "@superflycss/utilities-fonts";
 
-hr {
-  margin-left: 0;
-  max-width: 50rem;
-  color: black;
-  height: 1px;
-  background-color: black;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+body {
+  counter-reset: test-counter;
 }
 
-.Test {
-  margin-left: 10rem;
+/** Define a color palette */
+:root {
+  --Palette-background-color--Header: #F2F2F2;
+  --Palette-border-color:  #1AC0BA;
+  --Palette-text-color: #1AC0BA;
+  --Palette_onHover-text-color: #e91eaa;
+  --Palette_onHover-border-color: #e91eaa;
+  --Palette-background-color--Test: #CDDC38;
 }
 
-.Test-render {
-  color: white;
-  font-weight: 600;
+.u-test-background-color {
+    background-color: var(--Palette-background-color--Test);
 }
 
-.Test-when {
-  margin-bottom: 3rem;
+:root {
+  --Header-background-color: var(--Palette-background-color--Header);
+  --Header-padding-bottom: 3rem;
+
+  --Header_link-padding-left: 5rem;
+  --Header_link-padding-right: 5rem;
+  --Header_link-padding-top: 0.5rem;
+  --Header_link-padding-bottom: 0.5rem;
+  --Header_link-border-radius: 4px;
+  --Header_link-border-color: var(--Palette-border-color);
+  --Header_link-text-color: var(--Palette-text-color);
+
+  --Header_link_onHover-text-decoration: none;
+  --Header_link_onHover-text-color: var(--Palette_onHover-text-color);
+  --Header_link_onHover-border-color: var(--Palette_onHover-border-color);
 }
 
-.Test-when::before {
+
+.Test_when::before {
   content: "When ";
   color: rgba(26, 192, 186, 0.64);
 }
 
-.Test-then {
+.Test_then {
   margin-bottom: 3rem;
 }
 
-.Test-then::before {
+.Test_then::before {
   content: "Then ";
   color: rgba(26, 192, 186, 0.64);
 }
 
-.Test-header {
-  color: #1AC0BA;
-  background-color: #F2F2F2;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  text-align: center;
-  margin-bottom: 5rem;
-}
-
-.Test-header > h1 {
-  margin-bottom: 2rem;
-  color: #1AC0BA;
-}
-
-.Test-header > a {
-  color: #1AC0BA;
-  text-decoration: none;
-  font-size: 1.5rem;
-  font-family: sans-serif;
-  font-weight: 500;
-  display: inline-block;
-  width: 12em;
-  padding: 10px;
-  border-style: solid;
-  border-width: 3px;
-  border-color: #1AC0BA;
-  border-radius: 3px;
-}
 
 .hljs-tag {
   padding: 0px;

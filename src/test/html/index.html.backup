@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible"
+        content="IE=edge">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <title>Test superflycss-color-utilities</title>
+  <link href="../css/index.css"
+        rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans'
+        rel='stylesheet'
+        type='text/css'>
+</head>
+
+<body>
+
+  <header class="Header--column">
+    <h1 class="Display--fs400fw700">Color Utility Tests</h1>
+    <a class="Header_link" href="https://superflycss.github.com/utilities-colors/target/test/html/">Github</a>
+  </header>
+
+  <div class="Test u-height-5rem u-test-background-color">
+    <span class="Test_counter"></span>
+    <span class="Test_utilities">Gray Backgrounds</span>
+  </div>
+
+  <div class="Test_container u-md-flex-justify-around u-md-flex-row u-md-flex-align-items-start">
+
+
+    <ul style="list-style:none">
+      {% for weight in [100, 200, 400] %}
+      <li>
+        <span>u-background-color-gray-{{weight}}</span>
+        <span style="display: inline-block" class="u-display-inline-block u-background-color-gray-{{weight}} u-width-55rem u-height-2rem">SPACE SPACE SPACE</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+
+
+          <div class="Test_input">
+              <div class="Test_when"></div>
+              <div class="Test_description">When the material design red background color utilities are applied.</div>
+              <pre class="Test_markup">
+                <code class="html">
+                  {% for weight in [100, 200, 400] %}
+                  <ul>
+                    <li>
+                      <span>u-background-color-gray-{{weight}}</span>
+                      <span class="u-background-color-gray-{{weight}} u-width-5rem u-height-2rem">K</span>
+                    </li>
+                  </ul>
+                  {% endfor %}
+                </code>
+              </pre>
+          </div>
+          <div class="Test_output">
+              <div class="Test_then"></div>
+              <div class="Test_description u-margin-bottom-1x">No outline is rendered by default.</div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+  <div class="Test_when u-margin-left-10x">
+    <h2 class="u-margin-bottom-3x">the
+        <code>transparent-test-block</code> is rendered</h2>
+    <pre class="Test-markup">
+        <code class="html">
+          <div class="transparent-test-block">
+            <code style="color:gray;">transparent-test-block</code>
+          </div>
+        </code>
+      </pre>
+    <h2 class="Test_then">the background color of the body shows</h2>
+
+    <hr>
+
+    <h2 class="u-margin-bottom-3x">the gray background color utilities are applied.</h2>
+    <pre class="Test-markup">
+        <code class="html">
+          <div class="u-color-background-gray-100 transparent-test-block">
+            <code>u-color-background-gray-100</code>
+          </div>
+
+          <div class="u-color-background-gray-300 transparent-test-block">
+            <code>u-color-background-gray-300</code>
+          </div>
+
+          <div class="u-color-background-gray-400 transparent-test-block">
+            <code>u-color-background-gray-400</code>
+          </div>
+
+          <div class="u-color-background-gray-500 transparent-test-block">
+            <code>u-color-background-gray-500</code>
+          </div>
+
+          <div class="u-color-background-gray-600 transparent-test-block">
+            <code>u-color-background-gray-600</code>
+          </div>
+
+          <div class="u-color-background-gray-700 transparent-test-block">
+            <code>u-color-background-gray-700</code>
+          </div>
+
+          <div class="u-color-background-gray-900 transparent-test-block">
+            <code>u-color-background-gray-900</code>
+          </div>
+        </code>
+      </pre>
+    <h2 class="Test_then">the right background color is rendered.</h2>
+
+
+  </div>
+</body>
+
+</html>

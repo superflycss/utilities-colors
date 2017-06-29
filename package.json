@@ -1,13 +1,15 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Color utilities",
   "main": "src/main/css/index.css",
   "scripts": {
     "update": "ncu -a && npm i",
     "clean": "gulp clean",
     "build": "npm run clean && gulp build:css",
-    "test": "npm run build && gulp test:css"
+    "test": "npm run build && gulp test:css",
+    "serve": "lite-server",
+    "watch:test": "onchange 'src/test/html/*.html' 'src/test/css/*.css' 'src/main/css/*.css' -- npm test"
   },
   "repository": {
     "type": "git",
@@ -27,18 +29,25 @@
   },
   "homepage": "https://github.com/superflycss/utilities-colors#readme",
   "devDependencies": {
-    "@superflycss/component-display": "^1.0.0",
+    "@superflycss/component-display": "^1.0.1",
+    "@superflycss/component-test": "^2.0.0",
+    "@superflycss/component-header": "^1.0.11",
     "@superflycss/foundation": "^1.0.0",
     "@superflycss/pli": "^1.0.0",
-    "@superflycss/task-build": "^1.0.2",
+    "@superflycss/task-build": "^1.0.5",
     "@superflycss/task-clean": "^1.0.0",
-    "@superflycss/task-deploy": "^1.0.1",
+    "@superflycss/task-deploy": "^2.0.3",
     "@superflycss/task-lint": "^1.0.0",
-    "@superflycss/task-test": "^1.0.0",
+    "@superflycss/task-test": "^1.0.1",
+    "@superflycss/utilities-fonts": "^3.0.2",
+    "@superflycss/utilities-format": "^1.0.0",
+    "@superflycss/utilities-layout": "^2.0.5",
     "gulp": "^3.9.1",
-    "npm-check-updates": "^2.11.3"
+    "lite-server": "^2.3.0",
+    "npm-check-updates": "^2.12.1",
+    "onchange": "^3.2.1"
   },
   "dependencies": {
-    "@superflycss/variables-colors": "^1.0.0"
+    "@superflycss/variables-colors": "file:../variables-colors"
   }
 }

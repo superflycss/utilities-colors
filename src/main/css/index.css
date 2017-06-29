@@ -3,11 +3,13 @@
       https://github.com/superflycss/utilities-colors/blob/master/LICENSE.md */
 
 /* =======================================
-   COLORS
-   0: Import shared color variables
-   1: Gray color utilities
-   2: Notification background color utilities
-   3: Border, background, and text color utilities
+   COLORS UTILITIES
+   |: Material Design
+   |: Notification
+   |: Browser named colors
+   |: Superfly custom selected colors
+   |: Three digit color codes
+   |. Inherit the ancestor's text color
    --------------------------------------
    -- Naming Conventions --
    --------------------------------------
@@ -17,115 +19,22 @@
    All text color classes start with
    `u-text-color-`.
    --------------------------------------
+   All border color classes start with
+   `u-border-color-`.
+   --------------------------------------
+   All stroke color classes start with
+   `u-stroke-color-`.
+   --------------------------------------
+   All fill color classes start with
+   `u-fill-color-`.
    ======================================= */
 
+@import "./material.css";
+@import "./notifications.css";
+@import "./browser.css";
+@import "./superfly.css";
+@import "./three.css";
 
-/* 0 */
-
-@import "@superflycss/variables-colors";
-
-/* 1 */
-@each $weight in 100, 300, 400, 500, 600, 700, 900 {
-    :root {
-      --u-background-color-gray-$(weight) {
-          background-color: var(--color-gray-$(weight)) !important;
-        }
-      --u-text-color-gray-$(weight) {
-          color: var(--color-gray-$(weight)) !important;
-      }
-      --u-border-color-gray-$(weight) {
-          color: var(--color-gray-$(weight)) !important;
-      }
-    }
-    .u-background-color-gray-$(weight) {
-        @apply(--u-background-color-gray-$(weight));
-    }
-    .u-text-color-gray-$(weight) {
-        @apply(--u-text-color-gray-$(weight));
-    }
-    .u-border-color-gray-$(weight) {
-        @apply(--u-border-color-gray-$(weight));
-    }
-}
-
-/* 2 */
-@each $weight in 100, 300, 500, 700, 900 {
-    @each $brand in primary, success, info, warning, danger {
-        :root {
-          --u-background-color-$(brand)-$(weight) {
-              background-color: var(--color-$(brand)-$(weight)) !important;
-          }
-        }
-        .u-background-color-$(brand)-$(weight) {
-            @apply(--u-background-color-$(brand)-$(weight));
-        }
-    }
-}
-
-/* 3 */
-@each $color in
-neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, alice-blue, antique-white, aqua, aqua-marine, azure, beige, bisque, black, blanched-almond, blue, blue-violet, brown, burly-wood, cadet-blue, chartreuse, chocolate, coral, corn-flower-blue, cornsilk, crimson, cyan, dark-blue, dark-cyan, dark-golden-rod, dark-gray, dark-green, dark-khaki, dark-magenta, dark-olive-green, dark-orange, dark-orchid, dark-red, dark-salmon, dark-sea-green, dark-slate-blue, dark-slate-gray, dark-turquoise, dark-violet, deep-pink, deep-sky-blue, dim-gray, dodger-blue, fire-brick, floral-white, forest-green, fuchsia, gainsboro, ghost-white, gold, golden-rod, gray, green, green-yellow, honey-dew, hot-pink, indian-red, indigo, ivory, khaki, lavender, lavender-blush, lawn-green, lemon-chiffon, light-blue, light-coral, light-cyan, light-goldenrod-yellow, light-gray, light-green, light-pink, light-salmon, light-sea-green, light-sky-blue, light-slate-gray, light-steel-blue, light-yellow, lime, lime-green, linen, magenta, maroon, medium-aquamarine, medium-blue, medium-orchid, medium-purple, medium-sea-green, medium-slate-blue, medium-spring-green, medium-turquoise, medium-violet-red, midnight-blue, mint-cream, misty-rose, moccasin, navajo-white, navy, old-lace, olive, olive-drab, orange, orange-red, orchid, pale-golden-rod, pale-green, pale-turquoise, pale-violet-red, papaya-whip, peach-puff, peru, pink, plum, powder-blue, purple, red, rosy-brown, royal-blue, saddle-brown, salmon, sandy-brown, sea-green, sea-shell, sienna, silver, sky-blue, slate-blue, slate-gray, snow, spring-green, steel-blue, tan, teal, thistle, tomato, turquoise, violet, wheat, white, white-smoke, yellow, yellow-green
-{
-    :root {
-      --u-text-color-$(color) {
-          color: var(--color-$(color)) !important;
-      }
-    }
-
-    .u-text-color-$(color) {
-        @apply(--u-text-color-$(color));
-    }
-
-    :root {
-      --u-background-color-$(color) {
-          background-color: var(--color-$(color)) !important;
-      }
-    }
-
-    .u-background-color-$(color) {
-        @apply(--u-background-color-$(color));
-    }
-
-    :root {
-      --u-border-color-$(color) {
-          border-color: var(--color-$(color)) !important;
-      }
-    }
-
-    .u-border-color-$(color) {
-        @apply(--u-border-color-$(color));
-    }
-}
-
-@for $a from 0 to 9 {
-    @for $b from 0 to 9 {
-        @for $c from 0 to 9 {
-            :root {
-              --u-background-color-$(a)$(b)$(c) {
-                      background-color: #$(a)$(b)$(c) !important;
-                }
-            }
-            .u-background-color-$(a)$(b)$(c) {
-                      @apply(--u-background-color-$(a)$(b)$(c));
-            }
-
-            :root {
-              --u-border-color-$(a)$(b)$(c) {
-                  border-color: #$(a)$(b)$(c) !important;
-              }
-            }
-            .u-border-color-$(a)$(b)$(c) {
-                @apply(--u-border-color-$(a)$(b)$(c));
-            }
-
-            :root {
-              --u-text-color-$(a)$(b)$(c) {
-                  color: #$(a)$(b)$(c) !important;
-              }
-            }
-            .u-text-color-$(a)$(b)$(c) {
-                @apply(--u-text-color-$(a)$(b)$(c));
-            }
-        }
-    }
+.u-text-inherit-color {
+  color: inherit important!;
 }
