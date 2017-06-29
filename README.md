@@ -1,4 +1,6 @@
-# Icon Utilities
+# Color Utilities
+
+[![Build Status](https://travis-ci.org/superflycss/utilities-colors.svg?branch=master)](https://travis-ci.org/superflycss/utilities-colors)
 
 ## Installation
 
@@ -10,4 +12,4 @@ See [Usage](https://github.com/superflycss/superflycss/#usage)
 
 ## Tests
 
-[Superfly CSS Utilities Icons Tests](https://superflycss.github.io/utilities-icons/deploy/test/html/)
+[SuperflyCSS Color Utility Tests](https://superflycss.github.io/utilities-colors/deploy/test/html/)
