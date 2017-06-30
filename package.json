@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Color utilities",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -30,8 +30,9 @@
   },
   "homepage": "https://github.com/superflycss/utilities-colors#readme",
   "devDependencies": {
+    "@superflycss/component-body": "^1.0.1",
     "@superflycss/component-display": "^1.0.1",
-    "@superflycss/component-header": "^1.0.12",
+    "@superflycss/component-header": "^1.1.15",
     "@superflycss/component-test": "^2.0.0",
     "@superflycss/foundation": "^1.0.0",
     "@superflycss/task-build": "^1.0.5",
