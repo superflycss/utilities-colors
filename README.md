@@ -12,4 +12,4 @@ See [Usage](https://github.com/superflycss/superflycss/#usage)
 
 ## Tests
 
-[SuperflyCSS Color Utility Tests](https://superflycss.github.io/utilities-colors/deploy/test/html/)
+[SuperflyCSS Color Utility Tests](https://superflycss.github.io/utilities-colors/target/test/html/)
