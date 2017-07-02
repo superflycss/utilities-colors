@@ -3,20 +3,20 @@ SUPERFLY COLOR UTILITIES
 ======================================= */
 @import "@superflycss/variables-colors";
 
-@each $color in neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey {
-  .u-text-color-$(color) {
+@each $color in neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, charcoal-blue {
+  .u-text-color-sf-$(color) {
     color: var(--color-sf-$(color)) !important;
   }
-  .u-background-color-$(color) {
+  .u-background-color-sf-$(color) {
     background-color: var(--color-sf-$(color)) !important;
   }
-  .u-border-color-$(color) {
+  .u-border-color-sf-$(color) {
     border-color: var(--color-sf-$(color)) !important;
   }
-  .u-fill-color-$(color) {
+  .u-fill-color-sf-$(color) {
     fill: var(--color-sf-$(color)) !important;
   }
-  .u-stroke-color-$(color) {
+  .u-stroke-color-sf-$(color) {
     stroke: var(--color-sf-$(color)) !important;
   }
 }
