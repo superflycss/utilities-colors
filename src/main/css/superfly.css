@@ -5,18 +5,18 @@ SUPERFLY COLOR UTILITIES
 
 @each $color in neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey {
   .u-text-color-$(color) {
-    color: var(--color-$(color)) !important;
+    color: var(--color-sf-$(color)) !important;
   }
   .u-background-color-$(color) {
-    background-color: var(--color-$(color)) !important;
+    background-color: var(--color-sf-$(color)) !important;
   }
   .u-border-color-$(color) {
-    border-color: var(--color-$(color)) !important;
+    border-color: var(--color-sf-$(color)) !important;
   }
   .u-fill-color-$(color) {
-    fill: var(--color-$(color)) !important;
+    fill: var(--color-sf-$(color)) !important;
   }
   .u-stroke-color-$(color) {
-    stroke: var(--color-$(color)) !important;
+    stroke: var(--color-sf-$(color)) !important;
   }
 }

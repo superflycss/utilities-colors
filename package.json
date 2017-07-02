@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "2.0.8",
+  "version": "2.1.0",
   "description": "Color utilities",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -21,7 +21,7 @@
     "colors",
     "css-variables",
     "background",
-    "superfly-css"
+    "superflycss"
   ],
   "author": "Ole Ersoy",
   "license": "MIT",
@@ -31,9 +31,9 @@
   "homepage": "https://github.com/superflycss/utilities-colors#readme",
   "devDependencies": {
     "@superflycss/component-body": "^1.0.1",
-    "@superflycss/component-display": "^1.0.1",
+    "@superflycss/component-display": "^1.0.2",
     "@superflycss/component-header": "^1.1.15",
-    "@superflycss/component-test": "^2.0.0",
+    "@superflycss/component-test": "^2.0.19",
     "@superflycss/foundation": "^1.0.0",
     "@superflycss/task-build": "^1.0.5",
     "@superflycss/task-clean": "^1.0.2",
@@ -49,6 +49,6 @@
     "onchange": "^3.2.1"
   },
   "dependencies": {
-    "@superflycss/variables-colors": "^2.0.1"
+    "@superflycss/variables-colors": "^2.1.0"
   }
 }
