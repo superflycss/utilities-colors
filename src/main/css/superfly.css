@@ -3,7 +3,7 @@ SUPERFLY COLOR UTILITIES
 ======================================= */
 @import "@superflycss/variables-colors";
 
-@each $color in neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, charcoal-blue {
+@each $color in tennis-ball, neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, charcoal-blue {
   .u-text-color-sf-$(color) {
     color: var(--color-sf-$(color)) !important;
   }
