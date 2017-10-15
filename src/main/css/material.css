@@ -8,7 +8,7 @@ MATERIAL COLOR UTILITIES
     background-color: var(--color-md-$(color)) !important;
   }
   .u-border-color-md-$(color) {
-    color: var(--color-md-$(color)) !important;
+    border-color: var(--color-md-$(color)) !important;
   }
   .u-text-color-md-$(color) {
     color: var(--color-md-$(color)) !important;
