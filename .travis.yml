@@ -1,3 +1,4 @@
+install: travis_wait
 language: node_js
 sudo: false
 node_js:
@@ -9,7 +10,7 @@ deploy:
   on:
     branch: master
 before_deploy:
-  - install: travis_wait 50 gulp deploy:test:css
-  - install: travis_wait 50 gulp deploy:test:html
+  - travis_wait 50 gulp deploy:test:css
+  - travis_wait 50 gulp deploy:test:html
   - sed -i '/target/d' .gitignore
   - sed -i '/deploy/d' .gitignore
