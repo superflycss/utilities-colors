@@ -49,6 +49,6 @@
     "onchange": "^3.2.1"
   },
   "dependencies": {
-    "@superflycss/variables-colors": "^2.1.2"
+    "@superflycss/variables-colors": "^3.0.0"
   }
 }
