@@ -29,7 +29,7 @@
    `u-fill-color-`.
    ======================================= */
 
-@import "./notifications";
+@import "./notifications/";
 
 .u-text-inherit-color {
   color: inherit important!;
