@@ -29,11 +29,7 @@
    `u-fill-color-`.
    ======================================= */
 
-@import "./material.css";
-@import "./notifications.css";
-@import "./browser.css";
-@import "./superfly.css";
-@import "./three.css";
+@import "./notifications";
 
 .u-text-inherit-color {
   color: inherit important!;
