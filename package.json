@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "3.0.9",
+  "version": "3.1.0",
   "description": "Color utilities",
   "main": "index.css",
   "scripts": {
@@ -35,7 +35,5 @@
     "lite-server": "^2.4.0",
     "npm-check-updates": "^2.15.0"
   },
-  "dependencies": {
-    "@superflycss/variables-colors": "^3.1.12"
-  }
+  "dependencies": {}
 }

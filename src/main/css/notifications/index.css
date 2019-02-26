@@ -1,8 +1,4 @@
-/* =======================================
-NOTFICATION COLOR UTILITIES
-======================================= */
-
-@import "@superflycss/variables-colors";
+@import "../variables/foundation";
 @each $weight in 100, 300, 500, 700, 900 {
   @each $brand in primary, success, info, warning, danger {
     .u-background-color-$(brand)-$(weight) {
