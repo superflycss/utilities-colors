@@ -5,7 +5,7 @@ THREE DIGIT COLOR UTILITIES
   @for $a from 0 to 9 {
     @for $b from 0 to 9 {
       @for $c from 0 to 9 {
-        .u-on-$(event)-text-color-$(color):$(event) {
+        .u-on-$(event)-text-color-$(a)$(b)$(c):$(event) {
           color: #$(a)$(b)$(c) !important;
         }
         .u-on-$(event)-background-color-$(a)$(b)$(c):$(event) {
