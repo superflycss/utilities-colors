@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/utilities-colors",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Color utilities",
   "main": "index.css",
   "scripts": {
@@ -24,16 +24,16 @@
   },
   "homepage": "https://github.com/superflycss/utilities-colors#readme",
   "devDependencies": {
-    "@superflycss/component-body": "^1.0.1",
-    "@superflycss/component-display": "^1.0.2",
+    "@superflycss/component-body": "^1.0.4",
+    "@superflycss/component-display": "^1.0.5",
     "@superflycss/component-header": "^2.1.0",
-    "@superflycss/component-test": "^3.6.14",
+    "@superflycss/component-test": "^3.6.29",
     "@superflycss/foundation": "^2.0.3",
     "@superflycss/utilities-fonts": "^3.3.7",
-    "@superflycss/utilities-format": "^1.1.1",
-    "@superflycss/utilities-layout": "^4.0.4",
+    "@superflycss/utilities-format": "^1.2.7",
+    "@superflycss/utilities-layout": "^4.0.23",
     "lite-server": "^2.4.0",
-    "npm-check-updates": "^2.15.0"
+    "npm-check-updates": "^3.1.9"
   },
   "dependencies": {}
 }

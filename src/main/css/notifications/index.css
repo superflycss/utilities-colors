@@ -1,4 +1,4 @@
-@import "../variables/foundation";
+@import "../variables/notifications";
 @each $weight in 100, 300, 500, 700, 900 {
   @each $brand in primary, success, info, warning, danger {
     .u-background-color-$(brand)-$(weight) {

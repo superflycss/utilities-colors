@@ -1,0 +1,22 @@
+@import "../../variables/notifications";
+@each $weight in 100, 300, 500, 700, 900 {
+  @each $event in active, focus, disabled, visited, hover {
+    @each $brand in primary, success, info, warning, danger {
+      .u-on-$(event)-text-color-$(brand)-$(weight):$(event) {
+        color: var(--color-$(brand)-$(weight)) !important;
+      }
+      .u-on-$(event)-background-color-$(brand)-$(weight):$(event) {
+        background-color: var(--color-$(brand)-$(weight)) !important;
+      }
+      .u-on-$(event)-border-color-$(brand)-$(weight):$(event) {
+        border-color: var(--color-$(brand)-$(weight)) !important;
+      }
+      .u-on-$(event)-stroke-color-$(brand)-$(weight):$(event) {
+        stroke: var(--color-$(brand)-$(weight)) !important;
+      }
+      .u-on-$(event)-fill-color-$(brand)-$(weight):$(event) {
+        fill: var(--color-$(brand)-$(weight)) !important;
+      }
+    }
+  }
+}

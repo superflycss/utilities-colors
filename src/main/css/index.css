@@ -30,6 +30,17 @@
    ======================================= */
 
 @import "./notifications/";
+@import "./material/";
+@import "./browser/";
+@import "./superfly/";
+@import "./three/";
+@import "./variables/";
+@import "./effects/notifications/";
+@import "./effects/material/";
+@import "./effects/browser/";
+@import "./effects/superfly/";
+@import "./effects/three/";
+@import "./variables/";
 
 .u-text-inherit-color {
   color: inherit important!;
