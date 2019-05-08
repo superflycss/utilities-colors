@@ -8,16 +8,16 @@ THREE DIGIT COLOR UTILITIES
         .u-on-$(event)-text-color-$(color):$(event) {
           color: #$(a)$(b)$(c) !important;
         }
-        .u-on-$(event)-background-color-$(color):$(event) {
+        .u-on-$(event)-background-color-$(a)$(b)$(c):$(event) {
           background-color: #$(a)$(b)$(c) !important;
         }
-        .u-on-$(event)-border-color-$(color):$(event) {
+        .u-on-$(event)-border-color-$(a)$(b)$(c):$(event) {
           border-color: #$(a)$(b)$(c) !important;
         }
-        .u-on-$(event)-stroke-color-$(color):$(event) {
+        .u-on-$(event)-stroke-color-$(a)$(b)$(c):$(event) {
           stroke: #$(a)$(b)$(c) !important;
         }
-        .u-on-$(event)-fill-color-$(color):$(event) {
+        .u-on-$(event)-fill-color-$(a)$(b)$(c):$(event) {
           fill: #$(a)$(b)$(c) !important;
         }
       }
