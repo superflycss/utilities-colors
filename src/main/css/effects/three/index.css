@@ -1,0 +1,26 @@
+/* =======================================
+THREE DIGIT COLOR UTILITIES
+======================================= */
+@each $event in visited, hover, active, focus, disabled {
+  @for $a from 0 to 9 {
+    @for $b from 0 to 9 {
+      @for $c from 0 to 9 {
+        .u-on-$(event)-text-color-$(a)$(b)$(c):$(event) {
+          color: #$(a)$(b)$(c) !important;
+        }
+        .u-on-$(event)-background-color-$(a)$(b)$(c):$(event) {
+          background-color: #$(a)$(b)$(c) !important;
+        }
+        .u-on-$(event)-border-color-$(a)$(b)$(c):$(event) {
+          border-color: #$(a)$(b)$(c) !important;
+        }
+        .u-on-$(event)-stroke-color-$(a)$(b)$(c):$(event) {
+          stroke: #$(a)$(b)$(c) !important;
+        }
+        .u-on-$(event)-fill-color-$(a)$(b)$(c):$(event) {
+          fill: #$(a)$(b)$(c) !important;
+        }
+      }
+    }
+  }
+}

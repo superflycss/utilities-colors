@@ -1,0 +1,20 @@
+@import "../variables/notifications";
+@each $weight in 100, 300, 500, 700, 900 {
+  @each $brand in primary, success, info, warning, danger {
+    .u-background-color-$(brand)-$(weight) {
+      background-color: var(--color-$(brand)-$(weight)) !important;
+    }
+    .u-border-color-$(brand)-$(weight) {
+      border-color: var(--color-$(brand)-$(weight)) !important;
+    }
+    .u-text-color-$(brand)-$(weight) {
+      color: var(--color-$(brand)-$(weight)) !important;
+    }
+    .u-fill-color-$(brand)-$(weight) {
+      fill: var(--color-$(brand)-$(weight)) !important;
+    }
+    .u-stroke-color-$(brand)-$(weight) {
+      stroke: var(--color-$(brand)-$(weight)) !important;
+    }
+  }
+}

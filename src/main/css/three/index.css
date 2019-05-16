@@ -1,0 +1,23 @@
+/* =======================================
+THREE DIGIT COLOR UTILITIES
+======================================= */
+@for $a from 0 to 9 {
+  @for $b from 0 to 9 {
+    @for $c from 0 to 9 {
+      .u-background-color-$(a)$(b)$(c) {
+        background-color: #$(a)$(b)$(c) !important;
+      }
+      .u-border-color-$(a)$(b)$(c) {
+        border-color: #$(a)$(b)$(c) !important;
+      }
+      .u-text-color-$(a)$(b)$(c) {
+        color: #$(a)$(b)$(c) !important;
+      }
+      .u-fill-color-$(a)$(b)$(c) {
+        fill: #$(a)$(b)$(c) !important;
+      }
+      .u-stroke-color-$(a)$(b)$(c) {
+        stroke: #$(a)$(b)$(c) !important;
+      }    }
+  }
+}

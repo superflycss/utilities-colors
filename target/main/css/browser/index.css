@@ -1,0 +1,2103 @@
+/* =======================================
+BROWSER COLOR NAME UTILITIES
+======================================= */
+.u-text-color-alice-blue {
+    color: AliceBlue !important;
+  }
+.u-background-color-alice-blue {
+    background-color: AliceBlue !important;
+  }
+.u-border-color-alice-blue {
+    border-color: AliceBlue !important;
+  }
+.u-stroke-color-alice-blue {
+    stroke: AliceBlue !important;
+  }
+.u-fill-color-alice-blue {
+    fill: AliceBlue !important;
+  }
+.u-text-color-antique-white {
+    color: AntiqueWhite !important;
+  }
+.u-background-color-antique-white {
+    background-color: AntiqueWhite !important;
+  }
+.u-border-color-antique-white {
+    border-color: AntiqueWhite !important;
+  }
+.u-stroke-color-antique-white {
+    stroke: AntiqueWhite !important;
+  }
+.u-fill-color-antique-white {
+    fill: AntiqueWhite !important;
+  }
+.u-text-color-aqua {
+    color: Aqua !important;
+  }
+.u-background-color-aqua {
+    background-color: Aqua !important;
+  }
+.u-border-color-aqua {
+    border-color: Aqua !important;
+  }
+.u-stroke-color-aqua {
+    stroke: Aqua !important;
+  }
+.u-fill-color-aqua {
+    fill: Aqua !important;
+  }
+.u-text-color-aqua-marine {
+    color: AquaMarine !important;
+  }
+.u-background-color-aqua-marine {
+    background-color: AquaMarine !important;
+  }
+.u-border-color-aqua-marine {
+    border-color: AquaMarine !important;
+  }
+.u-stroke-color-aqua-marine {
+    stroke: AquaMarine !important;
+  }
+.u-fill-color-aqua-marine {
+    fill: AquaMarine !important;
+  }
+.u-text-color-azure {
+    color: Azure !important;
+  }
+.u-background-color-azure {
+    background-color: Azure !important;
+  }
+.u-border-color-azure {
+    border-color: Azure !important;
+  }
+.u-stroke-color-azure {
+    stroke: Azure !important;
+  }
+.u-fill-color-azure {
+    fill: Azure !important;
+  }
+.u-text-color-beige {
+    color: Beige !important;
+  }
+.u-background-color-beige {
+    background-color: Beige !important;
+  }
+.u-border-color-beige {
+    border-color: Beige !important;
+  }
+.u-stroke-color-beige {
+    stroke: Beige !important;
+  }
+.u-fill-color-beige {
+    fill: Beige !important;
+  }
+.u-text-color-bisque {
+    color: Bisque !important;
+  }
+.u-background-color-bisque {
+    background-color: Bisque !important;
+  }
+.u-border-color-bisque {
+    border-color: Bisque !important;
+  }
+.u-stroke-color-bisque {
+    stroke: Bisque !important;
+  }
+.u-fill-color-bisque {
+    fill: Bisque !important;
+  }
+.u-text-color-black {
+    color: Black !important;
+  }
+.u-background-color-black {
+    background-color: Black !important;
+  }
+.u-border-color-black {
+    border-color: Black !important;
+  }
+.u-stroke-color-black {
+    stroke: Black !important;
+  }
+.u-fill-color-black {
+    fill: Black !important;
+  }
+.u-text-color-blanched-almond {
+    color: BlanchedAlmond !important;
+  }
+.u-background-color-blanched-almond {
+    background-color: BlanchedAlmond !important;
+  }
+.u-border-color-blanched-almond {
+    border-color: BlanchedAlmond !important;
+  }
+.u-stroke-color-blanched-almond {
+    stroke: BlanchedAlmond !important;
+  }
+.u-fill-color-blanched-almond {
+    fill: BlanchedAlmond !important;
+  }
+.u-text-color-blue {
+    color: Blue !important;
+  }
+.u-background-color-blue {
+    background-color: Blue !important;
+  }
+.u-border-color-blue {
+    border-color: Blue !important;
+  }
+.u-stroke-color-blue {
+    stroke: Blue !important;
+  }
+.u-fill-color-blue {
+    fill: Blue !important;
+  }
+.u-text-color-blue-violet {
+    color: BlueViolet !important;
+  }
+.u-background-color-blue-violet {
+    background-color: BlueViolet !important;
+  }
+.u-border-color-blue-violet {
+    border-color: BlueViolet !important;
+  }
+.u-stroke-color-blue-violet {
+    stroke: BlueViolet !important;
+  }
+.u-fill-color-blue-violet {
+    fill: BlueViolet !important;
+  }
+.u-text-color-brown {
+    color: Brown !important;
+  }
+.u-background-color-brown {
+    background-color: Brown !important;
+  }
+.u-border-color-brown {
+    border-color: Brown !important;
+  }
+.u-stroke-color-brown {
+    stroke: Brown !important;
+  }
+.u-fill-color-brown {
+    fill: Brown !important;
+  }
+.u-text-color-burly-wood {
+    color: BurlyWood !important;
+  }
+.u-background-color-burly-wood {
+    background-color: BurlyWood !important;
+  }
+.u-border-color-burly-wood {
+    border-color: BurlyWood !important;
+  }
+.u-stroke-color-burly-wood {
+    stroke: BurlyWood !important;
+  }
+.u-fill-color-burly-wood {
+    fill: BurlyWood !important;
+  }
+.u-text-color-cadet-blue {
+    color: CadetBlue !important;
+  }
+.u-background-color-cadet-blue {
+    background-color: CadetBlue !important;
+  }
+.u-border-color-cadet-blue {
+    border-color: CadetBlue !important;
+  }
+.u-stroke-color-cadet-blue {
+    stroke: CadetBlue !important;
+  }
+.u-fill-color-cadet-blue {
+    fill: CadetBlue !important;
+  }
+.u-text-color-chartreuse {
+    color: Chartreuse !important;
+  }
+.u-background-color-chartreuse {
+    background-color: Chartreuse !important;
+  }
+.u-border-color-chartreuse {
+    border-color: Chartreuse !important;
+  }
+.u-stroke-color-chartreuse {
+    stroke: Chartreuse !important;
+  }
+.u-fill-color-chartreuse {
+    fill: Chartreuse !important;
+  }
+.u-text-color-chocolate {
+    color: Chocolate !important;
+  }
+.u-background-color-chocolate {
+    background-color: Chocolate !important;
+  }
+.u-border-color-chocolate {
+    border-color: Chocolate !important;
+  }
+.u-stroke-color-chocolate {
+    stroke: Chocolate !important;
+  }
+.u-fill-color-chocolate {
+    fill: Chocolate !important;
+  }
+.u-text-color-coral {
+    color: Coral !important;
+  }
+.u-background-color-coral {
+    background-color: Coral !important;
+  }
+.u-border-color-coral {
+    border-color: Coral !important;
+  }
+.u-stroke-color-coral {
+    stroke: Coral !important;
+  }
+.u-fill-color-coral {
+    fill: Coral !important;
+  }
+.u-text-color-corn-flower-blue {
+    color: CornFlowerBlue !important;
+  }
+.u-background-color-corn-flower-blue {
+    background-color: CornFlowerBlue !important;
+  }
+.u-border-color-corn-flower-blue {
+    border-color: CornFlowerBlue !important;
+  }
+.u-stroke-color-corn-flower-blue {
+    stroke: CornFlowerBlue !important;
+  }
+.u-fill-color-corn-flower-blue {
+    fill: CornFlowerBlue !important;
+  }
+.u-text-color-cornsilk {
+    color: Cornsilk !important;
+  }
+.u-background-color-cornsilk {
+    background-color: Cornsilk !important;
+  }
+.u-border-color-cornsilk {
+    border-color: Cornsilk !important;
+  }
+.u-stroke-color-cornsilk {
+    stroke: Cornsilk !important;
+  }
+.u-fill-color-cornsilk {
+    fill: Cornsilk !important;
+  }
+.u-text-color-crimson {
+    color: Crimson !important;
+  }
+.u-background-color-crimson {
+    background-color: Crimson !important;
+  }
+.u-border-color-crimson {
+    border-color: Crimson !important;
+  }
+.u-stroke-color-crimson {
+    stroke: Crimson !important;
+  }
+.u-fill-color-crimson {
+    fill: Crimson !important;
+  }
+.u-text-color-cyan {
+    color: Cyan !important;
+  }
+.u-background-color-cyan {
+    background-color: Cyan !important;
+  }
+.u-border-color-cyan {
+    border-color: Cyan !important;
+  }
+.u-stroke-color-cyan {
+    stroke: Cyan !important;
+  }
+.u-fill-color-cyan {
+    fill: Cyan !important;
+  }
+.u-text-color-dark-blue {
+    color: DarkBlue !important;
+  }
+.u-background-color-dark-blue {
+    background-color: DarkBlue !important;
+  }
+.u-border-color-dark-blue {
+    border-color: DarkBlue !important;
+  }
+.u-stroke-color-dark-blue {
+    stroke: DarkBlue !important;
+  }
+.u-fill-color-dark-blue {
+    fill: DarkBlue !important;
+  }
+.u-text-color-dark-cyan {
+    color: DarkCyan !important;
+  }
+.u-background-color-dark-cyan {
+    background-color: DarkCyan !important;
+  }
+.u-border-color-dark-cyan {
+    border-color: DarkCyan !important;
+  }
+.u-stroke-color-dark-cyan {
+    stroke: DarkCyan !important;
+  }
+.u-fill-color-dark-cyan {
+    fill: DarkCyan !important;
+  }
+.u-text-color-dark-golden-rod {
+    color: DarkGoldenRod !important;
+  }
+.u-background-color-dark-golden-rod {
+    background-color: DarkGoldenRod !important;
+  }
+.u-border-color-dark-golden-rod {
+    border-color: DarkGoldenRod !important;
+  }
+.u-stroke-color-dark-golden-rod {
+    stroke: DarkGoldenRod !important;
+  }
+.u-fill-color-dark-golden-rod {
+    fill: DarkGoldenRod !important;
+  }
+.u-text-color-dark-gray {
+    color: DarkGray !important;
+  }
+.u-background-color-dark-gray {
+    background-color: DarkGray !important;
+  }
+.u-border-color-dark-gray {
+    border-color: DarkGray !important;
+  }
+.u-stroke-color-dark-gray {
+    stroke: DarkGray !important;
+  }
+.u-fill-color-dark-gray {
+    fill: DarkGray !important;
+  }
+.u-text-color-dark-green {
+    color: DarkGreen !important;
+  }
+.u-background-color-dark-green {
+    background-color: DarkGreen !important;
+  }
+.u-border-color-dark-green {
+    border-color: DarkGreen !important;
+  }
+.u-stroke-color-dark-green {
+    stroke: DarkGreen !important;
+  }
+.u-fill-color-dark-green {
+    fill: DarkGreen !important;
+  }
+.u-text-color-dark-khaki {
+    color: DarkKhaki !important;
+  }
+.u-background-color-dark-khaki {
+    background-color: DarkKhaki !important;
+  }
+.u-border-color-dark-khaki {
+    border-color: DarkKhaki !important;
+  }
+.u-stroke-color-dark-khaki {
+    stroke: DarkKhaki !important;
+  }
+.u-fill-color-dark-khaki {
+    fill: DarkKhaki !important;
+  }
+.u-text-color-dark-magenta {
+    color: DarkMagenta !important;
+  }
+.u-background-color-dark-magenta {
+    background-color: DarkMagenta !important;
+  }
+.u-border-color-dark-magenta {
+    border-color: DarkMagenta !important;
+  }
+.u-stroke-color-dark-magenta {
+    stroke: DarkMagenta !important;
+  }
+.u-fill-color-dark-magenta {
+    fill: DarkMagenta !important;
+  }
+.u-text-color-dark-olive-green {
+    color: DarkOliveGreen !important;
+  }
+.u-background-color-dark-olive-green {
+    background-color: DarkOliveGreen !important;
+  }
+.u-border-color-dark-olive-green {
+    border-color: DarkOliveGreen !important;
+  }
+.u-stroke-color-dark-olive-green {
+    stroke: DarkOliveGreen !important;
+  }
+.u-fill-color-dark-olive-green {
+    fill: DarkOliveGreen !important;
+  }
+.u-text-color-dark-orange {
+    color: DarkOrange !important;
+  }
+.u-background-color-dark-orange {
+    background-color: DarkOrange !important;
+  }
+.u-border-color-dark-orange {
+    border-color: DarkOrange !important;
+  }
+.u-stroke-color-dark-orange {
+    stroke: DarkOrange !important;
+  }
+.u-fill-color-dark-orange {
+    fill: DarkOrange !important;
+  }
+.u-text-color-dark-orchid {
+    color: DarkOrchid !important;
+  }
+.u-background-color-dark-orchid {
+    background-color: DarkOrchid !important;
+  }
+.u-border-color-dark-orchid {
+    border-color: DarkOrchid !important;
+  }
+.u-stroke-color-dark-orchid {
+    stroke: DarkOrchid !important;
+  }
+.u-fill-color-dark-orchid {
+    fill: DarkOrchid !important;
+  }
+.u-text-color-dark-red {
+    color: DarkRed !important;
+  }
+.u-background-color-dark-red {
+    background-color: DarkRed !important;
+  }
+.u-border-color-dark-red {
+    border-color: DarkRed !important;
+  }
+.u-stroke-color-dark-red {
+    stroke: DarkRed !important;
+  }
+.u-fill-color-dark-red {
+    fill: DarkRed !important;
+  }
+.u-text-color-dark-salmon {
+    color: DarkSalmon !important;
+  }
+.u-background-color-dark-salmon {
+    background-color: DarkSalmon !important;
+  }
+.u-border-color-dark-salmon {
+    border-color: DarkSalmon !important;
+  }
+.u-stroke-color-dark-salmon {
+    stroke: DarkSalmon !important;
+  }
+.u-fill-color-dark-salmon {
+    fill: DarkSalmon !important;
+  }
+.u-text-color-dark-sea-green {
+    color: DarkSeaGreen !important;
+  }
+.u-background-color-dark-sea-green {
+    background-color: DarkSeaGreen !important;
+  }
+.u-border-color-dark-sea-green {
+    border-color: DarkSeaGreen !important;
+  }
+.u-stroke-color-dark-sea-green {
+    stroke: DarkSeaGreen !important;
+  }
+.u-fill-color-dark-sea-green {
+    fill: DarkSeaGreen !important;
+  }
+.u-text-color-dark-slate-blue {
+    color: DarkSlateBlue !important;
+  }
+.u-background-color-dark-slate-blue {
+    background-color: DarkSlateBlue !important;
+  }
+.u-border-color-dark-slate-blue {
+    border-color: DarkSlateBlue !important;
+  }
+.u-stroke-color-dark-slate-blue {
+    stroke: DarkSlateBlue !important;
+  }
+.u-fill-color-dark-slate-blue {
+    fill: DarkSlateBlue !important;
+  }
+.u-text-color-dark-slate-gray {
+    color: DarkSlateGray !important;
+  }
+.u-background-color-dark-slate-gray {
+    background-color: DarkSlateGray !important;
+  }
+.u-border-color-dark-slate-gray {
+    border-color: DarkSlateGray !important;
+  }
+.u-stroke-color-dark-slate-gray {
+    stroke: DarkSlateGray !important;
+  }
+.u-fill-color-dark-slate-gray {
+    fill: DarkSlateGray !important;
+  }
+.u-text-color-dark-turquoise {
+    color: DarkTurquoise !important;
+  }
+.u-background-color-dark-turquoise {
+    background-color: DarkTurquoise !important;
+  }
+.u-border-color-dark-turquoise {
+    border-color: DarkTurquoise !important;
+  }
+.u-stroke-color-dark-turquoise {
+    stroke: DarkTurquoise !important;
+  }
+.u-fill-color-dark-turquoise {
+    fill: DarkTurquoise !important;
+  }
+.u-text-color-dark-violet {
+    color: DarkViolet !important;
+  }
+.u-background-color-dark-violet {
+    background-color: DarkViolet !important;
+  }
+.u-border-color-dark-violet {
+    border-color: DarkViolet !important;
+  }
+.u-stroke-color-dark-violet {
+    stroke: DarkViolet !important;
+  }
+.u-fill-color-dark-violet {
+    fill: DarkViolet !important;
+  }
+.u-text-color-deep-pink {
+    color: DeepPink !important;
+  }
+.u-background-color-deep-pink {
+    background-color: DeepPink !important;
+  }
+.u-border-color-deep-pink {
+    border-color: DeepPink !important;
+  }
+.u-stroke-color-deep-pink {
+    stroke: DeepPink !important;
+  }
+.u-fill-color-deep-pink {
+    fill: DeepPink !important;
+  }
+.u-text-color-deep-sky-blue {
+    color: DeepSkyBlue !important;
+  }
+.u-background-color-deep-sky-blue {
+    background-color: DeepSkyBlue !important;
+  }
+.u-border-color-deep-sky-blue {
+    border-color: DeepSkyBlue !important;
+  }
+.u-stroke-color-deep-sky-blue {
+    stroke: DeepSkyBlue !important;
+  }
+.u-fill-color-deep-sky-blue {
+    fill: DeepSkyBlue !important;
+  }
+.u-text-color-dim-gray {
+    color: DimGray !important;
+  }
+.u-background-color-dim-gray {
+    background-color: DimGray !important;
+  }
+.u-border-color-dim-gray {
+    border-color: DimGray !important;
+  }
+.u-stroke-color-dim-gray {
+    stroke: DimGray !important;
+  }
+.u-fill-color-dim-gray {
+    fill: DimGray !important;
+  }
+.u-text-color-dodger-blue {
+    color: DodgerBlue !important;
+  }
+.u-background-color-dodger-blue {
+    background-color: DodgerBlue !important;
+  }
+.u-border-color-dodger-blue {
+    border-color: DodgerBlue !important;
+  }
+.u-stroke-color-dodger-blue {
+    stroke: DodgerBlue !important;
+  }
+.u-fill-color-dodger-blue {
+    fill: DodgerBlue !important;
+  }
+.u-text-color-fire-brick {
+    color: FireBrick !important;
+  }
+.u-background-color-fire-brick {
+    background-color: FireBrick !important;
+  }
+.u-border-color-fire-brick {
+    border-color: FireBrick !important;
+  }
+.u-stroke-color-fire-brick {
+    stroke: FireBrick !important;
+  }
+.u-fill-color-fire-brick {
+    fill: FireBrick !important;
+  }
+.u-text-color-floral-white {
+    color: FloralWhite !important;
+  }
+.u-background-color-floral-white {
+    background-color: FloralWhite !important;
+  }
+.u-border-color-floral-white {
+    border-color: FloralWhite !important;
+  }
+.u-stroke-color-floral-white {
+    stroke: FloralWhite !important;
+  }
+.u-fill-color-floral-white {
+    fill: FloralWhite !important;
+  }
+.u-text-color-forest-green {
+    color: ForestGreen !important;
+  }
+.u-background-color-forest-green {
+    background-color: ForestGreen !important;
+  }
+.u-border-color-forest-green {
+    border-color: ForestGreen !important;
+  }
+.u-stroke-color-forest-green {
+    stroke: ForestGreen !important;
+  }
+.u-fill-color-forest-green {
+    fill: ForestGreen !important;
+  }
+.u-text-color-fuchsia {
+    color: Fuchsia !important;
+  }
+.u-background-color-fuchsia {
+    background-color: Fuchsia !important;
+  }
+.u-border-color-fuchsia {
+    border-color: Fuchsia !important;
+  }
+.u-stroke-color-fuchsia {
+    stroke: Fuchsia !important;
+  }
+.u-fill-color-fuchsia {
+    fill: Fuchsia !important;
+  }
+.u-text-color-gainsboro {
+    color: Gainsboro !important;
+  }
+.u-background-color-gainsboro {
+    background-color: Gainsboro !important;
+  }
+.u-border-color-gainsboro {
+    border-color: Gainsboro !important;
+  }
+.u-stroke-color-gainsboro {
+    stroke: Gainsboro !important;
+  }
+.u-fill-color-gainsboro {
+    fill: Gainsboro !important;
+  }
+.u-text-color-ghost-white {
+    color: GhostWhite !important;
+  }
+.u-background-color-ghost-white {
+    background-color: GhostWhite !important;
+  }
+.u-border-color-ghost-white {
+    border-color: GhostWhite !important;
+  }
+.u-stroke-color-ghost-white {
+    stroke: GhostWhite !important;
+  }
+.u-fill-color-ghost-white {
+    fill: GhostWhite !important;
+  }
+.u-text-color-gold {
+    color: Gold !important;
+  }
+.u-background-color-gold {
+    background-color: Gold !important;
+  }
+.u-border-color-gold {
+    border-color: Gold !important;
+  }
+.u-stroke-color-gold {
+    stroke: Gold !important;
+  }
+.u-fill-color-gold {
+    fill: Gold !important;
+  }
+.u-text-color-golden-rod {
+    color: GoldenRod !important;
+  }
+.u-background-color-golden-rod {
+    background-color: GoldenRod !important;
+  }
+.u-border-color-golden-rod {
+    border-color: GoldenRod !important;
+  }
+.u-stroke-color-golden-rod {
+    stroke: GoldenRod !important;
+  }
+.u-fill-color-golden-rod {
+    fill: GoldenRod !important;
+  }
+.u-text-color-gray {
+    color: Gray !important;
+  }
+.u-background-color-gray {
+    background-color: Gray !important;
+  }
+.u-border-color-gray {
+    border-color: Gray !important;
+  }
+.u-stroke-color-gray {
+    stroke: Gray !important;
+  }
+.u-fill-color-gray {
+    fill: Gray !important;
+  }
+.u-text-color-green {
+    color: Green !important;
+  }
+.u-background-color-green {
+    background-color: Green !important;
+  }
+.u-border-color-green {
+    border-color: Green !important;
+  }
+.u-stroke-color-green {
+    stroke: Green !important;
+  }
+.u-fill-color-green {
+    fill: Green !important;
+  }
+.u-text-color-green-yellow {
+    color: GreenYellow !important;
+  }
+.u-background-color-green-yellow {
+    background-color: GreenYellow !important;
+  }
+.u-border-color-green-yellow {
+    border-color: GreenYellow !important;
+  }
+.u-stroke-color-green-yellow {
+    stroke: GreenYellow !important;
+  }
+.u-fill-color-green-yellow {
+    fill: GreenYellow !important;
+  }
+.u-text-color-honey-dew {
+    color: HoneyDew !important;
+  }
+.u-background-color-honey-dew {
+    background-color: HoneyDew !important;
+  }
+.u-border-color-honey-dew {
+    border-color: HoneyDew !important;
+  }
+.u-stroke-color-honey-dew {
+    stroke: HoneyDew !important;
+  }
+.u-fill-color-honey-dew {
+    fill: HoneyDew !important;
+  }
+.u-text-color-hot-pink {
+    color: HotPink !important;
+  }
+.u-background-color-hot-pink {
+    background-color: HotPink !important;
+  }
+.u-border-color-hot-pink {
+    border-color: HotPink !important;
+  }
+.u-stroke-color-hot-pink {
+    stroke: HotPink !important;
+  }
+.u-fill-color-hot-pink {
+    fill: HotPink !important;
+  }
+.u-text-color-indian-red {
+    color: IndianRed !important;
+  }
+.u-background-color-indian-red {
+    background-color: IndianRed !important;
+  }
+.u-border-color-indian-red {
+    border-color: IndianRed !important;
+  }
+.u-stroke-color-indian-red {
+    stroke: IndianRed !important;
+  }
+.u-fill-color-indian-red {
+    fill: IndianRed !important;
+  }
+.u-text-color-indigo {
+    color: Indigo !important;
+  }
+.u-background-color-indigo {
+    background-color: Indigo !important;
+  }
+.u-border-color-indigo {
+    border-color: Indigo !important;
+  }
+.u-stroke-color-indigo {
+    stroke: Indigo !important;
+  }
+.u-fill-color-indigo {
+    fill: Indigo !important;
+  }
+.u-text-color-ivory {
+    color: Ivory !important;
+  }
+.u-background-color-ivory {
+    background-color: Ivory !important;
+  }
+.u-border-color-ivory {
+    border-color: Ivory !important;
+  }
+.u-stroke-color-ivory {
+    stroke: Ivory !important;
+  }
+.u-fill-color-ivory {
+    fill: Ivory !important;
+  }
+.u-text-color-khaki {
+    color: Khaki !important;
+  }
+.u-background-color-khaki {
+    background-color: Khaki !important;
+  }
+.u-border-color-khaki {
+    border-color: Khaki !important;
+  }
+.u-stroke-color-khaki {
+    stroke: Khaki !important;
+  }
+.u-fill-color-khaki {
+    fill: Khaki !important;
+  }
+.u-text-color-lavender {
+    color: Lavender !important;
+  }
+.u-background-color-lavender {
+    background-color: Lavender !important;
+  }
+.u-border-color-lavender {
+    border-color: Lavender !important;
+  }
+.u-stroke-color-lavender {
+    stroke: Lavender !important;
+  }
+.u-fill-color-lavender {
+    fill: Lavender !important;
+  }
+.u-text-color-lavender-blush {
+    color: LavenderBlush !important;
+  }
+.u-background-color-lavender-blush {
+    background-color: LavenderBlush !important;
+  }
+.u-border-color-lavender-blush {
+    border-color: LavenderBlush !important;
+  }
+.u-stroke-color-lavender-blush {
+    stroke: LavenderBlush !important;
+  }
+.u-fill-color-lavender-blush {
+    fill: LavenderBlush !important;
+  }
+.u-text-color-lawn-green {
+    color: LawnGreen !important;
+  }
+.u-background-color-lawn-green {
+    background-color: LawnGreen !important;
+  }
+.u-border-color-lawn-green {
+    border-color: LawnGreen !important;
+  }
+.u-stroke-color-lawn-green {
+    stroke: LawnGreen !important;
+  }
+.u-fill-color-lawn-green {
+    fill: LawnGreen !important;
+  }
+.u-text-color-lemon-chiffon {
+    color: LemonChiffon !important;
+  }
+.u-background-color-lemon-chiffon {
+    background-color: LemonChiffon !important;
+  }
+.u-border-color-lemon-chiffon {
+    border-color: LemonChiffon !important;
+  }
+.u-stroke-color-lemon-chiffon {
+    stroke: LemonChiffon !important;
+  }
+.u-fill-color-lemon-chiffon {
+    fill: LemonChiffon !important;
+  }
+.u-text-color-light-blue {
+    color: LightBlue !important;
+  }
+.u-background-color-light-blue {
+    background-color: LightBlue !important;
+  }
+.u-border-color-light-blue {
+    border-color: LightBlue !important;
+  }
+.u-stroke-color-light-blue {
+    stroke: LightBlue !important;
+  }
+.u-fill-color-light-blue {
+    fill: LightBlue !important;
+  }
+.u-text-color-light-coral {
+    color: LightCoral !important;
+  }
+.u-background-color-light-coral {
+    background-color: LightCoral !important;
+  }
+.u-border-color-light-coral {
+    border-color: LightCoral !important;
+  }
+.u-stroke-color-light-coral {
+    stroke: LightCoral !important;
+  }
+.u-fill-color-light-coral {
+    fill: LightCoral !important;
+  }
+.u-text-color-light-cyan {
+    color: LightCyan !important;
+  }
+.u-background-color-light-cyan {
+    background-color: LightCyan !important;
+  }
+.u-border-color-light-cyan {
+    border-color: LightCyan !important;
+  }
+.u-stroke-color-light-cyan {
+    stroke: LightCyan !important;
+  }
+.u-fill-color-light-cyan {
+    fill: LightCyan !important;
+  }
+.u-text-color-light-goldenrod-yellow {
+    color: LightGoldenrodYellow !important;
+  }
+.u-background-color-light-goldenrod-yellow {
+    background-color: LightGoldenrodYellow !important;
+  }
+.u-border-color-light-goldenrod-yellow {
+    border-color: LightGoldenrodYellow !important;
+  }
+.u-stroke-color-light-goldenrod-yellow {
+    stroke: LightGoldenrodYellow !important;
+  }
+.u-fill-color-light-goldenrod-yellow {
+    fill: LightGoldenrodYellow !important;
+  }
+.u-text-color-light-gray {
+    color: LightGray !important;
+  }
+.u-background-color-light-gray {
+    background-color: LightGray !important;
+  }
+.u-border-color-light-gray {
+    border-color: LightGray !important;
+  }
+.u-stroke-color-light-gray {
+    stroke: LightGray !important;
+  }
+.u-fill-color-light-gray {
+    fill: LightGray !important;
+  }
+.u-text-color-light-green {
+    color: LightGreen !important;
+  }
+.u-background-color-light-green {
+    background-color: LightGreen !important;
+  }
+.u-border-color-light-green {
+    border-color: LightGreen !important;
+  }
+.u-stroke-color-light-green {
+    stroke: LightGreen !important;
+  }
+.u-fill-color-light-green {
+    fill: LightGreen !important;
+  }
+.u-text-color-light-pink {
+    color: LightPink !important;
+  }
+.u-background-color-light-pink {
+    background-color: LightPink !important;
+  }
+.u-border-color-light-pink {
+    border-color: LightPink !important;
+  }
+.u-stroke-color-light-pink {
+    stroke: LightPink !important;
+  }
+.u-fill-color-light-pink {
+    fill: LightPink !important;
+  }
+.u-text-color-light-salmon {
+    color: LightSalmon !important;
+  }
+.u-background-color-light-salmon {
+    background-color: LightSalmon !important;
+  }
+.u-border-color-light-salmon {
+    border-color: LightSalmon !important;
+  }
+.u-stroke-color-light-salmon {
+    stroke: LightSalmon !important;
+  }
+.u-fill-color-light-salmon {
+    fill: LightSalmon !important;
+  }
+.u-text-color-light-sea-green {
+    color: LightSeaGreen !important;
+  }
+.u-background-color-light-sea-green {
+    background-color: LightSeaGreen !important;
+  }
+.u-border-color-light-sea-green {
+    border-color: LightSeaGreen !important;
+  }
+.u-stroke-color-light-sea-green {
+    stroke: LightSeaGreen !important;
+  }
+.u-fill-color-light-sea-green {
+    fill: LightSeaGreen !important;
+  }
+.u-text-color-light-sky-blue {
+    color: LightSkyBlue !important;
+  }
+.u-background-color-light-sky-blue {
+    background-color: LightSkyBlue !important;
+  }
+.u-border-color-light-sky-blue {
+    border-color: LightSkyBlue !important;
+  }
+.u-stroke-color-light-sky-blue {
+    stroke: LightSkyBlue !important;
+  }
+.u-fill-color-light-sky-blue {
+    fill: LightSkyBlue !important;
+  }
+.u-text-color-light-slate-gray {
+    color: LightSlateGray !important;
+  }
+.u-background-color-light-slate-gray {
+    background-color: LightSlateGray !important;
+  }
+.u-border-color-light-slate-gray {
+    border-color: LightSlateGray !important;
+  }
+.u-stroke-color-light-slate-gray {
+    stroke: LightSlateGray !important;
+  }
+.u-fill-color-light-slate-gray {
+    fill: LightSlateGray !important;
+  }
+.u-text-color-light-steel-blue {
+    color: LightSteelBlue !important;
+  }
+.u-background-color-light-steel-blue {
+    background-color: LightSteelBlue !important;
+  }
+.u-border-color-light-steel-blue {
+    border-color: LightSteelBlue !important;
+  }
+.u-stroke-color-light-steel-blue {
+    stroke: LightSteelBlue !important;
+  }
+.u-fill-color-light-steel-blue {
+    fill: LightSteelBlue !important;
+  }
+.u-text-color-light-yellow {
+    color: LightYellow !important;
+  }
+.u-background-color-light-yellow {
+    background-color: LightYellow !important;
+  }
+.u-border-color-light-yellow {
+    border-color: LightYellow !important;
+  }
+.u-stroke-color-light-yellow {
+    stroke: LightYellow !important;
+  }
+.u-fill-color-light-yellow {
+    fill: LightYellow !important;
+  }
+.u-text-color-lime {
+    color: Lime !important;
+  }
+.u-background-color-lime {
+    background-color: Lime !important;
+  }
+.u-border-color-lime {
+    border-color: Lime !important;
+  }
+.u-stroke-color-lime {
+    stroke: Lime !important;
+  }
+.u-fill-color-lime {
+    fill: Lime !important;
+  }
+.u-text-color-lime-green {
+    color: LimeGreen !important;
+  }
+.u-background-color-lime-green {
+    background-color: LimeGreen !important;
+  }
+.u-border-color-lime-green {
+    border-color: LimeGreen !important;
+  }
+.u-stroke-color-lime-green {
+    stroke: LimeGreen !important;
+  }
+.u-fill-color-lime-green {
+    fill: LimeGreen !important;
+  }
+.u-text-color-linen {
+    color: Linen !important;
+  }
+.u-background-color-linen {
+    background-color: Linen !important;
+  }
+.u-border-color-linen {
+    border-color: Linen !important;
+  }
+.u-stroke-color-linen {
+    stroke: Linen !important;
+  }
+.u-fill-color-linen {
+    fill: Linen !important;
+  }
+.u-text-color-magenta {
+    color: Magenta !important;
+  }
+.u-background-color-magenta {
+    background-color: Magenta !important;
+  }
+.u-border-color-magenta {
+    border-color: Magenta !important;
+  }
+.u-stroke-color-magenta {
+    stroke: Magenta !important;
+  }
+.u-fill-color-magenta {
+    fill: Magenta !important;
+  }
+.u-text-color-maroon {
+    color: Maroon !important;
+  }
+.u-background-color-maroon {
+    background-color: Maroon !important;
+  }
+.u-border-color-maroon {
+    border-color: Maroon !important;
+  }
+.u-stroke-color-maroon {
+    stroke: Maroon !important;
+  }
+.u-fill-color-maroon {
+    fill: Maroon !important;
+  }
+.u-text-color-medium-aquamarine {
+    color: MediumAquaMarine !important;
+  }
+.u-background-color-medium-aquamarine {
+    background-color: MediumAquaMarine !important;
+  }
+.u-border-color-medium-aquamarine {
+    border-color: MediumAquaMarine !important;
+  }
+.u-stroke-color-medium-aquamarine {
+    stroke: MediumAquaMarine !important;
+  }
+.u-fill-color-medium-aquamarine {
+    fill: MediumAquaMarine !important;
+  }
+.u-text-color-medium-blue {
+    color: MediumBlue !important;
+  }
+.u-background-color-medium-blue {
+    background-color: MediumBlue !important;
+  }
+.u-border-color-medium-blue {
+    border-color: MediumBlue !important;
+  }
+.u-stroke-color-medium-blue {
+    stroke: MediumBlue !important;
+  }
+.u-fill-color-medium-blue {
+    fill: MediumBlue !important;
+  }
+.u-text-color-medium-orchid {
+    color: MediumOrchid !important;
+  }
+.u-background-color-medium-orchid {
+    background-color: MediumOrchid !important;
+  }
+.u-border-color-medium-orchid {
+    border-color: MediumOrchid !important;
+  }
+.u-stroke-color-medium-orchid {
+    stroke: MediumOrchid !important;
+  }
+.u-fill-color-medium-orchid {
+    fill: MediumOrchid !important;
+  }
+.u-text-color-medium-purple {
+    color: MediumPurple !important;
+  }
+.u-background-color-medium-purple {
+    background-color: MediumPurple !important;
+  }
+.u-border-color-medium-purple {
+    border-color: MediumPurple !important;
+  }
+.u-stroke-color-medium-purple {
+    stroke: MediumPurple !important;
+  }
+.u-fill-color-medium-purple {
+    fill: MediumPurple !important;
+  }
+.u-text-color-medium-sea-green {
+    color: MediumSeaGreen !important;
+  }
+.u-background-color-medium-sea-green {
+    background-color: MediumSeaGreen !important;
+  }
+.u-border-color-medium-sea-green {
+    border-color: MediumSeaGreen !important;
+  }
+.u-stroke-color-medium-sea-green {
+    stroke: MediumSeaGreen !important;
+  }
+.u-fill-color-medium-sea-green {
+    fill: MediumSeaGreen !important;
+  }
+.u-text-color-medium-slate-blue {
+    color: MediumSlateBlue !important;
+  }
+.u-background-color-medium-slate-blue {
+    background-color: MediumSlateBlue !important;
+  }
+.u-border-color-medium-slate-blue {
+    border-color: MediumSlateBlue !important;
+  }
+.u-stroke-color-medium-slate-blue {
+    stroke: MediumSlateBlue !important;
+  }
+.u-fill-color-medium-slate-blue {
+    fill: MediumSlateBlue !important;
+  }
+.u-text-color-medium-spring-green {
+    color: MediumSpringGreen !important;
+  }
+.u-background-color-medium-spring-green {
+    background-color: MediumSpringGreen !important;
+  }
+.u-border-color-medium-spring-green {
+    border-color: MediumSpringGreen !important;
+  }
+.u-stroke-color-medium-spring-green {
+    stroke: MediumSpringGreen !important;
+  }
+.u-fill-color-medium-spring-green {
+    fill: MediumSpringGreen !important;
+  }
+.u-text-color-medium-turquoise {
+    color: MediumTurquoise !important;
+  }
+.u-background-color-medium-turquoise {
+    background-color: MediumTurquoise !important;
+  }
+.u-border-color-medium-turquoise {
+    border-color: MediumTurquoise !important;
+  }
+.u-stroke-color-medium-turquoise {
+    stroke: MediumTurquoise !important;
+  }
+.u-fill-color-medium-turquoise {
+    fill: MediumTurquoise !important;
+  }
+.u-text-color-medium-violet-red {
+    color: MediumVioletRed !important;
+  }
+.u-background-color-medium-violet-red {
+    background-color: MediumVioletRed !important;
+  }
+.u-border-color-medium-violet-red {
+    border-color: MediumVioletRed !important;
+  }
+.u-stroke-color-medium-violet-red {
+    stroke: MediumVioletRed !important;
+  }
+.u-fill-color-medium-violet-red {
+    fill: MediumVioletRed !important;
+  }
+.u-text-color-midnight-blue {
+    color: MidnightBlue !important;
+  }
+.u-background-color-midnight-blue {
+    background-color: MidnightBlue !important;
+  }
+.u-border-color-midnight-blue {
+    border-color: MidnightBlue !important;
+  }
+.u-stroke-color-midnight-blue {
+    stroke: MidnightBlue !important;
+  }
+.u-fill-color-midnight-blue {
+    fill: MidnightBlue !important;
+  }
+.u-text-color-mint-cream {
+    color: MintCream !important;
+  }
+.u-background-color-mint-cream {
+    background-color: MintCream !important;
+  }
+.u-border-color-mint-cream {
+    border-color: MintCream !important;
+  }
+.u-stroke-color-mint-cream {
+    stroke: MintCream !important;
+  }
+.u-fill-color-mint-cream {
+    fill: MintCream !important;
+  }
+.u-text-color-misty-rose {
+    color: misty-rose !important;
+  }
+.u-background-color-misty-rose {
+    background-color: misty-rose !important;
+  }
+.u-border-color-misty-rose {
+    border-color: misty-rose !important;
+  }
+.u-stroke-color-misty-rose {
+    stroke: misty-rose !important;
+  }
+.u-fill-color-misty-rose {
+    fill: misty-rose !important;
+  }
+.u-text-color-moccasin {
+    color: Moccasin !important;
+  }
+.u-background-color-moccasin {
+    background-color: Moccasin !important;
+  }
+.u-border-color-moccasin {
+    border-color: Moccasin !important;
+  }
+.u-stroke-color-moccasin {
+    stroke: Moccasin !important;
+  }
+.u-fill-color-moccasin {
+    fill: Moccasin !important;
+  }
+.u-text-color-navajo-white {
+    color: NavajoWhite !important;
+  }
+.u-background-color-navajo-white {
+    background-color: NavajoWhite !important;
+  }
+.u-border-color-navajo-white {
+    border-color: NavajoWhite !important;
+  }
+.u-stroke-color-navajo-white {
+    stroke: NavajoWhite !important;
+  }
+.u-fill-color-navajo-white {
+    fill: NavajoWhite !important;
+  }
+.u-text-color-navy {
+    color: Navy !important;
+  }
+.u-background-color-navy {
+    background-color: Navy !important;
+  }
+.u-border-color-navy {
+    border-color: Navy !important;
+  }
+.u-stroke-color-navy {
+    stroke: Navy !important;
+  }
+.u-fill-color-navy {
+    fill: Navy !important;
+  }
+.u-text-color-old-lace {
+    color: OldLace !important;
+  }
+.u-background-color-old-lace {
+    background-color: OldLace !important;
+  }
+.u-border-color-old-lace {
+    border-color: OldLace !important;
+  }
+.u-stroke-color-old-lace {
+    stroke: OldLace !important;
+  }
+.u-fill-color-old-lace {
+    fill: OldLace !important;
+  }
+.u-text-color-olive {
+    color: Olive !important;
+  }
+.u-background-color-olive {
+    background-color: Olive !important;
+  }
+.u-border-color-olive {
+    border-color: Olive !important;
+  }
+.u-stroke-color-olive {
+    stroke: Olive !important;
+  }
+.u-fill-color-olive {
+    fill: Olive !important;
+  }
+.u-text-color-olive-drab {
+    color: OliveDrab !important;
+  }
+.u-background-color-olive-drab {
+    background-color: OliveDrab !important;
+  }
+.u-border-color-olive-drab {
+    border-color: OliveDrab !important;
+  }
+.u-stroke-color-olive-drab {
+    stroke: OliveDrab !important;
+  }
+.u-fill-color-olive-drab {
+    fill: OliveDrab !important;
+  }
+.u-text-color-orange {
+    color: Orange !important;
+  }
+.u-background-color-orange {
+    background-color: Orange !important;
+  }
+.u-border-color-orange {
+    border-color: Orange !important;
+  }
+.u-stroke-color-orange {
+    stroke: Orange !important;
+  }
+.u-fill-color-orange {
+    fill: Orange !important;
+  }
+.u-text-color-orange-red {
+    color: OrangeRed !important;
+  }
+.u-background-color-orange-red {
+    background-color: OrangeRed !important;
+  }
+.u-border-color-orange-red {
+    border-color: OrangeRed !important;
+  }
+.u-stroke-color-orange-red {
+    stroke: OrangeRed !important;
+  }
+.u-fill-color-orange-red {
+    fill: OrangeRed !important;
+  }
+.u-text-color-orchid {
+    color: Orchid !important;
+  }
+.u-background-color-orchid {
+    background-color: Orchid !important;
+  }
+.u-border-color-orchid {
+    border-color: Orchid !important;
+  }
+.u-stroke-color-orchid {
+    stroke: Orchid !important;
+  }
+.u-fill-color-orchid {
+    fill: Orchid !important;
+  }
+.u-text-color-pale-golden-rod {
+    color: PaleGoldenRod !important;
+  }
+.u-background-color-pale-golden-rod {
+    background-color: PaleGoldenRod !important;
+  }
+.u-border-color-pale-golden-rod {
+    border-color: PaleGoldenRod !important;
+  }
+.u-stroke-color-pale-golden-rod {
+    stroke: PaleGoldenRod !important;
+  }
+.u-fill-color-pale-golden-rod {
+    fill: PaleGoldenRod !important;
+  }
+.u-text-color-pale-green {
+    color: PaleGreen !important;
+  }
+.u-background-color-pale-green {
+    background-color: PaleGreen !important;
+  }
+.u-border-color-pale-green {
+    border-color: PaleGreen !important;
+  }
+.u-stroke-color-pale-green {
+    stroke: PaleGreen !important;
+  }
+.u-fill-color-pale-green {
+    fill: PaleGreen !important;
+  }
+.u-text-color-pale-turquoise {
+    color: PaleTurquoise !important;
+  }
+.u-background-color-pale-turquoise {
+    background-color: PaleTurquoise !important;
+  }
+.u-border-color-pale-turquoise {
+    border-color: PaleTurquoise !important;
+  }
+.u-stroke-color-pale-turquoise {
+    stroke: PaleTurquoise !important;
+  }
+.u-fill-color-pale-turquoise {
+    fill: PaleTurquoise !important;
+  }
+.u-text-color-pale-violet-red {
+    color: PaleVioletRed !important;
+  }
+.u-background-color-pale-violet-red {
+    background-color: PaleVioletRed !important;
+  }
+.u-border-color-pale-violet-red {
+    border-color: PaleVioletRed !important;
+  }
+.u-stroke-color-pale-violet-red {
+    stroke: PaleVioletRed !important;
+  }
+.u-fill-color-pale-violet-red {
+    fill: PaleVioletRed !important;
+  }
+.u-text-color-papaya-whip {
+    color: PapayaWhip !important;
+  }
+.u-background-color-papaya-whip {
+    background-color: PapayaWhip !important;
+  }
+.u-border-color-papaya-whip {
+    border-color: PapayaWhip !important;
+  }
+.u-stroke-color-papaya-whip {
+    stroke: PapayaWhip !important;
+  }
+.u-fill-color-papaya-whip {
+    fill: PapayaWhip !important;
+  }
+.u-text-color-peach-puff {
+    color: PeachPuff !important;
+  }
+.u-background-color-peach-puff {
+    background-color: PeachPuff !important;
+  }
+.u-border-color-peach-puff {
+    border-color: PeachPuff !important;
+  }
+.u-stroke-color-peach-puff {
+    stroke: PeachPuff !important;
+  }
+.u-fill-color-peach-puff {
+    fill: PeachPuff !important;
+  }
+.u-text-color-peru {
+    color: Peru !important;
+  }
+.u-background-color-peru {
+    background-color: Peru !important;
+  }
+.u-border-color-peru {
+    border-color: Peru !important;
+  }
+.u-stroke-color-peru {
+    stroke: Peru !important;
+  }
+.u-fill-color-peru {
+    fill: Peru !important;
+  }
+.u-text-color-pink {
+    color: Pink !important;
+  }
+.u-background-color-pink {
+    background-color: Pink !important;
+  }
+.u-border-color-pink {
+    border-color: Pink !important;
+  }
+.u-stroke-color-pink {
+    stroke: Pink !important;
+  }
+.u-fill-color-pink {
+    fill: Pink !important;
+  }
+.u-text-color-plum {
+    color: Plum !important;
+  }
+.u-background-color-plum {
+    background-color: Plum !important;
+  }
+.u-border-color-plum {
+    border-color: Plum !important;
+  }
+.u-stroke-color-plum {
+    stroke: Plum !important;
+  }
+.u-fill-color-plum {
+    fill: Plum !important;
+  }
+.u-text-color-powder-blue {
+    color: PowderBlue !important;
+  }
+.u-background-color-powder-blue {
+    background-color: PowderBlue !important;
+  }
+.u-border-color-powder-blue {
+    border-color: PowderBlue !important;
+  }
+.u-stroke-color-powder-blue {
+    stroke: PowderBlue !important;
+  }
+.u-fill-color-powder-blue {
+    fill: PowderBlue !important;
+  }
+.u-text-color-purple {
+    color: Purple !important;
+  }
+.u-background-color-purple {
+    background-color: Purple !important;
+  }
+.u-border-color-purple {
+    border-color: Purple !important;
+  }
+.u-stroke-color-purple {
+    stroke: Purple !important;
+  }
+.u-fill-color-purple {
+    fill: Purple !important;
+  }
+.u-text-color-red {
+    color: Red !important;
+  }
+.u-background-color-red {
+    background-color: Red !important;
+  }
+.u-border-color-red {
+    border-color: Red !important;
+  }
+.u-stroke-color-red {
+    stroke: Red !important;
+  }
+.u-fill-color-red {
+    fill: Red !important;
+  }
+.u-text-color-rosy-brown {
+    color: RosyBrown !important;
+  }
+.u-background-color-rosy-brown {
+    background-color: RosyBrown !important;
+  }
+.u-border-color-rosy-brown {
+    border-color: RosyBrown !important;
+  }
+.u-stroke-color-rosy-brown {
+    stroke: RosyBrown !important;
+  }
+.u-fill-color-rosy-brown {
+    fill: RosyBrown !important;
+  }
+.u-text-color-royal-blue {
+    color: RoyalBlue !important;
+  }
+.u-background-color-royal-blue {
+    background-color: RoyalBlue !important;
+  }
+.u-border-color-royal-blue {
+    border-color: RoyalBlue !important;
+  }
+.u-stroke-color-royal-blue {
+    stroke: RoyalBlue !important;
+  }
+.u-fill-color-royal-blue {
+    fill: RoyalBlue !important;
+  }
+.u-text-color-saddle-brown {
+    color: SaddleBrown !important;
+  }
+.u-background-color-saddle-brown {
+    background-color: SaddleBrown !important;
+  }
+.u-border-color-saddle-brown {
+    border-color: SaddleBrown !important;
+  }
+.u-stroke-color-saddle-brown {
+    stroke: SaddleBrown !important;
+  }
+.u-fill-color-saddle-brown {
+    fill: SaddleBrown !important;
+  }
+.u-text-color-salmon {
+    color: Salmon !important;
+  }
+.u-background-color-salmon {
+    background-color: Salmon !important;
+  }
+.u-border-color-salmon {
+    border-color: Salmon !important;
+  }
+.u-stroke-color-salmon {
+    stroke: Salmon !important;
+  }
+.u-fill-color-salmon {
+    fill: Salmon !important;
+  }
+.u-text-color-sandy-brown {
+    color: SandyBrown !important;
+  }
+.u-background-color-sandy-brown {
+    background-color: SandyBrown !important;
+  }
+.u-border-color-sandy-brown {
+    border-color: SandyBrown !important;
+  }
+.u-stroke-color-sandy-brown {
+    stroke: SandyBrown !important;
+  }
+.u-fill-color-sandy-brown {
+    fill: SandyBrown !important;
+  }
+.u-text-color-sea-green {
+    color: SeaGreen !important;
+  }
+.u-background-color-sea-green {
+    background-color: SeaGreen !important;
+  }
+.u-border-color-sea-green {
+    border-color: SeaGreen !important;
+  }
+.u-stroke-color-sea-green {
+    stroke: SeaGreen !important;
+  }
+.u-fill-color-sea-green {
+    fill: SeaGreen !important;
+  }
+.u-text-color-sea-shell {
+    color: SeaShell !important;
+  }
+.u-background-color-sea-shell {
+    background-color: SeaShell !important;
+  }
+.u-border-color-sea-shell {
+    border-color: SeaShell !important;
+  }
+.u-stroke-color-sea-shell {
+    stroke: SeaShell !important;
+  }
+.u-fill-color-sea-shell {
+    fill: SeaShell !important;
+  }
+.u-text-color-sienna {
+    color: Sienna !important;
+  }
+.u-background-color-sienna {
+    background-color: Sienna !important;
+  }
+.u-border-color-sienna {
+    border-color: Sienna !important;
+  }
+.u-stroke-color-sienna {
+    stroke: Sienna !important;
+  }
+.u-fill-color-sienna {
+    fill: Sienna !important;
+  }
+.u-text-color-silver {
+    color: Silver !important;
+  }
+.u-background-color-silver {
+    background-color: Silver !important;
+  }
+.u-border-color-silver {
+    border-color: Silver !important;
+  }
+.u-stroke-color-silver {
+    stroke: Silver !important;
+  }
+.u-fill-color-silver {
+    fill: Silver !important;
+  }
+.u-text-color-sky-blue {
+    color: SkyBlue !important;
+  }
+.u-background-color-sky-blue {
+    background-color: SkyBlue !important;
+  }
+.u-border-color-sky-blue {
+    border-color: SkyBlue !important;
+  }
+.u-stroke-color-sky-blue {
+    stroke: SkyBlue !important;
+  }
+.u-fill-color-sky-blue {
+    fill: SkyBlue !important;
+  }
+.u-text-color-slate-blue {
+    color: SlateBlue !important;
+  }
+.u-background-color-slate-blue {
+    background-color: SlateBlue !important;
+  }
+.u-border-color-slate-blue {
+    border-color: SlateBlue !important;
+  }
+.u-stroke-color-slate-blue {
+    stroke: SlateBlue !important;
+  }
+.u-fill-color-slate-blue {
+    fill: SlateBlue !important;
+  }
+.u-text-color-slate-gray {
+    color: SlateGray !important;
+  }
+.u-background-color-slate-gray {
+    background-color: SlateGray !important;
+  }
+.u-border-color-slate-gray {
+    border-color: SlateGray !important;
+  }
+.u-stroke-color-slate-gray {
+    stroke: SlateGray !important;
+  }
+.u-fill-color-slate-gray {
+    fill: SlateGray !important;
+  }
+.u-text-color-snow {
+    color: Snow !important;
+  }
+.u-background-color-snow {
+    background-color: Snow !important;
+  }
+.u-border-color-snow {
+    border-color: Snow !important;
+  }
+.u-stroke-color-snow {
+    stroke: Snow !important;
+  }
+.u-fill-color-snow {
+    fill: Snow !important;
+  }
+.u-text-color-spring-green {
+    color: SpringGreen !important;
+  }
+.u-background-color-spring-green {
+    background-color: SpringGreen !important;
+  }
+.u-border-color-spring-green {
+    border-color: SpringGreen !important;
+  }
+.u-stroke-color-spring-green {
+    stroke: SpringGreen !important;
+  }
+.u-fill-color-spring-green {
+    fill: SpringGreen !important;
+  }
+.u-text-color-steel-blue {
+    color: SteelBlue !important;
+  }
+.u-background-color-steel-blue {
+    background-color: SteelBlue !important;
+  }
+.u-border-color-steel-blue {
+    border-color: SteelBlue !important;
+  }
+.u-stroke-color-steel-blue {
+    stroke: SteelBlue !important;
+  }
+.u-fill-color-steel-blue {
+    fill: SteelBlue !important;
+  }
+.u-text-color-tan {
+    color: Tan !important;
+  }
+.u-background-color-tan {
+    background-color: Tan !important;
+  }
+.u-border-color-tan {
+    border-color: Tan !important;
+  }
+.u-stroke-color-tan {
+    stroke: Tan !important;
+  }
+.u-fill-color-tan {
+    fill: Tan !important;
+  }
+.u-text-color-teal {
+    color: Teal !important;
+  }
+.u-background-color-teal {
+    background-color: Teal !important;
+  }
+.u-border-color-teal {
+    border-color: Teal !important;
+  }
+.u-stroke-color-teal {
+    stroke: Teal !important;
+  }
+.u-fill-color-teal {
+    fill: Teal !important;
+  }
+.u-text-color-thistle {
+    color: Thistle !important;
+  }
+.u-background-color-thistle {
+    background-color: Thistle !important;
+  }
+.u-border-color-thistle {
+    border-color: Thistle !important;
+  }
+.u-stroke-color-thistle {
+    stroke: Thistle !important;
+  }
+.u-fill-color-thistle {
+    fill: Thistle !important;
+  }
+.u-text-color-tomato {
+    color: Tomato !important;
+  }
+.u-background-color-tomato {
+    background-color: Tomato !important;
+  }
+.u-border-color-tomato {
+    border-color: Tomato !important;
+  }
+.u-stroke-color-tomato {
+    stroke: Tomato !important;
+  }
+.u-fill-color-tomato {
+    fill: Tomato !important;
+  }
+.u-text-color-turquoise {
+    color: Turquoise !important;
+  }
+.u-background-color-turquoise {
+    background-color: Turquoise !important;
+  }
+.u-border-color-turquoise {
+    border-color: Turquoise !important;
+  }
+.u-stroke-color-turquoise {
+    stroke: Turquoise !important;
+  }
+.u-fill-color-turquoise {
+    fill: Turquoise !important;
+  }
+.u-text-color-violet {
+    color: Violet !important;
+  }
+.u-background-color-violet {
+    background-color: Violet !important;
+  }
+.u-border-color-violet {
+    border-color: Violet !important;
+  }
+.u-stroke-color-violet {
+    stroke: Violet !important;
+  }
+.u-fill-color-violet {
+    fill: Violet !important;
+  }
+.u-text-color-wheat {
+    color: Wheat !important;
+  }
+.u-background-color-wheat {
+    background-color: Wheat !important;
+  }
+.u-border-color-wheat {
+    border-color: Wheat !important;
+  }
+.u-stroke-color-wheat {
+    stroke: Wheat !important;
+  }
+.u-fill-color-wheat {
+    fill: Wheat !important;
+  }
+.u-text-color-white {
+    color: White !important;
+  }
+.u-background-color-white {
+    background-color: White !important;
+  }
+.u-border-color-white {
+    border-color: White !important;
+  }
+.u-stroke-color-white {
+    stroke: White !important;
+  }
+.u-fill-color-white {
+    fill: White !important;
+  }
+.u-text-color-white-smoke {
+    color: WhiteSmoke !important;
+  }
+.u-background-color-white-smoke {
+    background-color: WhiteSmoke !important;
+  }
+.u-border-color-white-smoke {
+    border-color: WhiteSmoke !important;
+  }
+.u-stroke-color-white-smoke {
+    stroke: WhiteSmoke !important;
+  }
+.u-fill-color-white-smoke {
+    fill: WhiteSmoke !important;
+  }
+.u-text-color-yellow {
+    color: Yellow !important;
+  }
+.u-background-color-yellow {
+    background-color: Yellow !important;
+  }
+.u-border-color-yellow {
+    border-color: Yellow !important;
+  }
+.u-stroke-color-yellow {
+    stroke: Yellow !important;
+  }
+.u-fill-color-yellow {
+    fill: Yellow !important;
+  }
+.u-text-color-yellow-green {
+    color: YellowGreen !important;
+  }
+.u-background-color-yellow-green {
+    background-color: YellowGreen !important;
+  }
+.u-border-color-yellow-green {
+    border-color: YellowGreen !important;
+  }
+.u-stroke-color-yellow-green {
+    stroke: YellowGreen !important;
+  }
+.u-fill-color-yellow-green {
+    fill: YellowGreen !important;
+  }

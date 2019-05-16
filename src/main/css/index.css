@@ -1,0 +1,47 @@
+/*! | superflycss/utilities-colors |
+      MIT License                  |
+      https://github.com/superflycss/utilities-colors/blob/master/LICENSE.md */
+
+/* =======================================
+   COLORS UTILITIES
+   |: Material Design
+   |: Notification
+   |: Browser named colors
+   |: Superfly custom selected colors
+   |: Three digit color codes
+   |. Inherit the ancestor's text color
+   --------------------------------------
+   -- Naming Conventions --
+   --------------------------------------
+   All background color classes start with
+   `u-background-color-`.
+   --------------------------------------
+   All text color classes start with
+   `u-text-color-`.
+   --------------------------------------
+   All border color classes start with
+   `u-border-color-`.
+   --------------------------------------
+   All stroke color classes start with
+   `u-stroke-color-`.
+   --------------------------------------
+   All fill color classes start with
+   `u-fill-color-`.
+   ======================================= */
+
+@import "./notifications/";
+@import "./material/";
+@import "./browser/";
+@import "./superfly/";
+@import "./three/";
+@import "./variables/";
+@import "./effects/notifications/";
+@import "./effects/material/";
+@import "./effects/browser/";
+@import "./effects/superfly/";
+@import "./effects/three/";
+@import "./variables/";
+
+.u-text-inherit-color {
+  color: inherit important!;
+}

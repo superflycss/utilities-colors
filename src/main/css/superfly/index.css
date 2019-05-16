@@ -1,0 +1,22 @@
+/* =======================================
+SUPERFLY COLOR UTILITIES
+======================================= */
+@import "../variables/superfly/";
+
+@each $color in tennis-ball, neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, charcoal-blue {
+  .u-text-color-sf-$(color) {
+    color: var(--color-sf-$(color)) !important;
+  }
+  .u-background-color-sf-$(color) {
+    background-color: var(--color-sf-$(color)) !important;
+  }
+  .u-border-color-sf-$(color) {
+    border-color: var(--color-sf-$(color)) !important;
+  }
+  .u-fill-color-sf-$(color) {
+    fill: var(--color-sf-$(color)) !important;
+  }
+  .u-stroke-color-sf-$(color) {
+    stroke: var(--color-sf-$(color)) !important;
+  }
+}
