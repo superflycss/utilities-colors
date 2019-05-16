@@ -1,6 +1,6 @@
 @import "../../variables/notifications";
 @each $weight in 100, 300, 500, 700, 900 {
-  @each $event in hover, active, focus, disabled, visited {
+  @each $event in visited, hover, active, focus, disabled {
     @each $brand in primary, success, info, warning, danger {
       .u-on-$(event)-text-color-$(brand)-$(weight):$(event) {
         color: var(--color-$(brand)-$(weight)) !important;

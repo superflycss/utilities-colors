@@ -1,7 +1,7 @@
 /* =======================================
 THREE DIGIT COLOR UTILITIES
 ======================================= */
-@each $event in hover, active, focus, disabled, visited {
+@each $event in visited, hover, active, focus, disabled {
   @for $a from 0 to 9 {
     @for $b from 0 to 9 {
       @for $c from 0 to 9 {

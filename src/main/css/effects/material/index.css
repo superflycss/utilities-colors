@@ -3,7 +3,7 @@ MATERIAL COLOR UTILITIES
 ======================================= */
 @import "../../variables/material";
 
-@each $event in visited, hover, active, focus, disabled,   {
+@each $event in visited, hover, active, focus, disabled   {
   @each $color in amber-50, amber-100, amber-200, amber-300, amber-400,
     amber-500, amber-600, amber-700, amber-800, amber-900, amber-a100,
     amber-a200, amber-a400, amber-a700, blue-50, blue-100, blue-200, blue-300,
