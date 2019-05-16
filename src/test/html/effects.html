@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% import "@superflycss/component-test/TestHead.njk" as TestHead %}
+  {% import "@superflycss/component-test/TestHeader.njk" as TestHeader %}
+  {% import "@superflycss/component-test/TestTemplate.njk" as Test %}
+
+  {{ TestHead.utility( 'colors', "../css/effects.css" ) }}
+
+  <body>
+
+    {{ TestHeader.utility( 'colors' ) }}
+
+    <!-- MATERIAL DESIGN UTILITIES -->
+
+    {% set when1 %}
+Mouse event based color utilities are applied.
+    {% endset %}
+    {% call Test.utility('Mouse Event Colors', when1, 'The effects show on hover and active mouse events.') %}
+<div class="Button u-flex
+            u-width15rem
+            u-height15rem 
+            u-background-color-md-blue-200
+            u-on-hover-background-color-md-blue-300
+            u-on-active-background-color-md-blue-500
+            u-text-color-white">
+Click me       
+</div>
+    {% endcall %}
+
+  </body>
+
+</html>

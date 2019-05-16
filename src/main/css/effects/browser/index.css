@@ -3,7 +3,7 @@ BROWSER COLOR NAME UTILITIES
 ======================================= */
 @import "../../variables/browser";
 
-@each $event in active, focus, disabled, visited, hover {
+@each $event in  hover, active, focus, disabled, visited {
   @each $color in alice-blue, antique-white, aqua, aqua-marine, azure, beige,
     bisque, black, blanched-almond, blue, blue-violet, brown, burly-wood,
     cadet-blue, chartreuse, chocolate, coral, corn-flower-blue, cornsilk,

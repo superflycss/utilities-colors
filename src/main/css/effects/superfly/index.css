@@ -3,7 +3,7 @@ SUPERFLY COLOR UTILITIES
 ======================================= */
 @import "../../variables/superfly/";
 
-@each $event in active, focus, disabled, visited, hover {
+@each $event in hover, active, focus, disabled, visited {
   @each $color in tennis-ball, neon-mustard, soft-white, tomato-red, purple-pink, light-orange-red, silver-grey, charcoal-blue {
     .u-on-$(event)-text-color-$(color):$(event) {
       color: var(--color-sf-$(color)) !important;
