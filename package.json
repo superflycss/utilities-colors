@@ -29,7 +29,7 @@
     "@superflycss/component-display": "^1.0.5",
     "@superflycss/component-header": "^2.1.0",
     "@superflycss/component-test": "^3.6.30",
-    "@superflycss/foundation": "^2.0.3",
+    "@superflycss/foundation": "^2.0.4",
     "@superflycss/utilities-fonts": "^3.3.7",
     "@superflycss/utilities-format": "^1.2.7",
     "@superflycss/utilities-layout": "^4.0.25",
