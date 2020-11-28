@@ -1,0 +1,508 @@
+/* =======================================
+   NOTIFICATION COLORS
+
+   ABBREVIATIONS
+   tc:  text-color
+   bdc: border-color
+   bgc: background-color
+   ======================================= */
+
+   .u-background-color-primary-100 {
+      background-color: rgb(102, 176, 255) !important;
+    }
+
+   .u-border-color-primary-100 {
+      border-color: rgb(102, 176, 255) !important;
+    }
+
+   .u-text-color-primary-100 {
+      color: rgb(102, 176, 255) !important;
+    }
+
+   .u-fill-color-primary-100 {
+      fill: rgb(102, 176, 255) !important;
+    }
+
+   .u-stroke-color-primary-100 {
+      stroke: rgb(102, 176, 255) !important;
+    }
+
+   .u-background-color-success-100 {
+      background-color: rgb(157, 212, 157) !important;
+    }
+
+   .u-border-color-success-100 {
+      border-color: rgb(157, 212, 157) !important;
+    }
+
+   .u-text-color-success-100 {
+      color: rgb(157, 212, 157) !important;
+    }
+
+   .u-fill-color-success-100 {
+      fill: rgb(157, 212, 157) !important;
+    }
+
+   .u-stroke-color-success-100 {
+      stroke: rgb(157, 212, 157) !important;
+    }
+
+   .u-background-color-info-100 {
+      background-color: rgb(116, 199, 212) !important;
+    }
+
+   .u-border-color-info-100 {
+      border-color: rgb(116, 199, 212) !important;
+    }
+
+   .u-text-color-info-100 {
+      color: rgb(116, 199, 212) !important;
+    }
+
+   .u-fill-color-info-100 {
+      fill: rgb(116, 199, 212) !important;
+    }
+
+   .u-stroke-color-info-100 {
+      stroke: rgb(116, 199, 212) !important;
+    }
+
+   .u-background-color-warning-100 {
+      background-color: rgb(255, 218, 106) !important;
+    }
+
+   .u-border-color-warning-100 {
+      border-color: rgb(255, 218, 106) !important;
+    }
+
+   .u-text-color-warning-100 {
+      color: rgb(255, 218, 106) !important;
+    }
+
+   .u-fill-color-warning-100 {
+      fill: rgb(255, 218, 106) !important;
+    }
+
+   .u-stroke-color-warning-100 {
+      stroke: rgb(255, 218, 106) !important;
+    }
+
+   .u-background-color-danger-100 {
+      background-color: rgb(234, 134, 143) !important;
+    }
+
+   .u-border-color-danger-100 {
+      border-color: rgb(234, 134, 143) !important;
+    }
+
+   .u-text-color-danger-100 {
+      color: rgb(234, 134, 143) !important;
+    }
+
+   .u-fill-color-danger-100 {
+      fill: rgb(234, 134, 143) !important;
+    }
+
+   .u-stroke-color-danger-100 {
+      stroke: rgb(234, 134, 143) !important;
+    }
+
+   .u-background-color-primary-300 {
+      background-color: rgb(51, 149, 255) !important;
+    }
+
+   .u-border-color-primary-300 {
+      border-color: rgb(51, 149, 255) !important;
+    }
+
+   .u-text-color-primary-300 {
+      color: rgb(51, 149, 255) !important;
+    }
+
+   .u-fill-color-primary-300 {
+      fill: rgb(51, 149, 255) !important;
+    }
+
+   .u-stroke-color-primary-300 {
+      stroke: rgb(51, 149, 255) !important;
+    }
+
+   .u-background-color-success-300 {
+      background-color: rgb(125, 198, 125) !important;
+    }
+
+   .u-border-color-success-300 {
+      border-color: rgb(125, 198, 125) !important;
+    }
+
+   .u-text-color-success-300 {
+      color: rgb(125, 198, 125) !important;
+    }
+
+   .u-fill-color-success-300 {
+      fill: rgb(125, 198, 125) !important;
+    }
+
+   .u-stroke-color-success-300 {
+      stroke: rgb(125, 198, 125) !important;
+    }
+
+   .u-background-color-info-300 {
+      background-color: rgb(69, 181, 198) !important;
+    }
+
+   .u-border-color-info-300 {
+      border-color: rgb(69, 181, 198) !important;
+    }
+
+   .u-text-color-info-300 {
+      color: rgb(69, 181, 198) !important;
+    }
+
+   .u-fill-color-info-300 {
+      fill: rgb(69, 181, 198) !important;
+    }
+
+   .u-stroke-color-info-300 {
+      stroke: rgb(69, 181, 198) !important;
+    }
+
+   .u-background-color-warning-300 {
+      background-color: rgb(255, 205, 57) !important;
+    }
+
+   .u-border-color-warning-300 {
+      border-color: rgb(255, 205, 57) !important;
+    }
+
+   .u-text-color-warning-300 {
+      color: rgb(255, 205, 57) !important;
+    }
+
+   .u-fill-color-warning-300 {
+      fill: rgb(255, 205, 57) !important;
+    }
+
+   .u-stroke-color-warning-300 {
+      stroke: rgb(255, 205, 57) !important;
+    }
+
+   .u-background-color-danger-300 {
+      background-color: rgb(227, 93, 106) !important;
+    }
+
+   .u-border-color-danger-300 {
+      border-color: rgb(227, 93, 106) !important;
+    }
+
+   .u-text-color-danger-300 {
+      color: rgb(227, 93, 106) !important;
+    }
+
+   .u-fill-color-danger-300 {
+      fill: rgb(227, 93, 106) !important;
+    }
+
+   .u-stroke-color-danger-300 {
+      stroke: rgb(227, 93, 106) !important;
+    }
+
+   .u-background-color-primary-500 {
+      background-color: #007bff !important;
+    }
+
+   .u-border-color-primary-500 {
+      border-color: #007bff !important;
+    }
+
+   .u-text-color-primary-500 {
+      color: #007bff !important;
+    }
+
+   .u-fill-color-primary-500 {
+      fill: #007bff !important;
+    }
+
+   .u-stroke-color-primary-500 {
+      stroke: #007bff !important;
+    }
+
+   .u-background-color-success-500 {
+      background-color: #5cb85c !important;
+    }
+
+   .u-border-color-success-500 {
+      border-color: #5cb85c !important;
+    }
+
+   .u-text-color-success-500 {
+      color: #5cb85c !important;
+    }
+
+   .u-fill-color-success-500 {
+      fill: #5cb85c !important;
+    }
+
+   .u-stroke-color-success-500 {
+      stroke: #5cb85c !important;
+    }
+
+   .u-background-color-info-500 {
+      background-color: #17a2b8 !important;
+    }
+
+   .u-border-color-info-500 {
+      border-color: #17a2b8 !important;
+    }
+
+   .u-text-color-info-500 {
+      color: #17a2b8 !important;
+    }
+
+   .u-fill-color-info-500 {
+      fill: #17a2b8 !important;
+    }
+
+   .u-stroke-color-info-500 {
+      stroke: #17a2b8 !important;
+    }
+
+   .u-background-color-warning-500 {
+      background-color: #ffc107 !important;
+    }
+
+   .u-border-color-warning-500 {
+      border-color: #ffc107 !important;
+    }
+
+   .u-text-color-warning-500 {
+      color: #ffc107 !important;
+    }
+
+   .u-fill-color-warning-500 {
+      fill: #ffc107 !important;
+    }
+
+   .u-stroke-color-warning-500 {
+      stroke: #ffc107 !important;
+    }
+
+   .u-background-color-danger-500 {
+      background-color: #dc3545 !important;
+    }
+
+   .u-border-color-danger-500 {
+      border-color: #dc3545 !important;
+    }
+
+   .u-text-color-danger-500 {
+      color: #dc3545 !important;
+    }
+
+   .u-fill-color-danger-500 {
+      fill: #dc3545 !important;
+    }
+
+   .u-stroke-color-danger-500 {
+      stroke: #dc3545 !important;
+    }
+
+   .u-background-color-primary-700 {
+      background-color: rgb(0, 98, 204) !important;
+    }
+
+   .u-border-color-primary-700 {
+      border-color: rgb(0, 98, 204) !important;
+    }
+
+   .u-text-color-primary-700 {
+      color: rgb(0, 98, 204) !important;
+    }
+
+   .u-fill-color-primary-700 {
+      fill: rgb(0, 98, 204) !important;
+    }
+
+   .u-stroke-color-primary-700 {
+      stroke: rgb(0, 98, 204) !important;
+    }
+
+   .u-background-color-success-700 {
+      background-color: rgb(74, 147, 74) !important;
+    }
+
+   .u-border-color-success-700 {
+      border-color: rgb(74, 147, 74) !important;
+    }
+
+   .u-text-color-success-700 {
+      color: rgb(74, 147, 74) !important;
+    }
+
+   .u-fill-color-success-700 {
+      fill: rgb(74, 147, 74) !important;
+    }
+
+   .u-stroke-color-success-700 {
+      stroke: rgb(74, 147, 74) !important;
+    }
+
+   .u-background-color-info-700 {
+      background-color: rgb(18, 130, 147) !important;
+    }
+
+   .u-border-color-info-700 {
+      border-color: rgb(18, 130, 147) !important;
+    }
+
+   .u-text-color-info-700 {
+      color: rgb(18, 130, 147) !important;
+    }
+
+   .u-fill-color-info-700 {
+      fill: rgb(18, 130, 147) !important;
+    }
+
+   .u-stroke-color-info-700 {
+      stroke: rgb(18, 130, 147) !important;
+    }
+
+   .u-background-color-warning-700 {
+      background-color: rgb(204, 154, 6) !important;
+    }
+
+   .u-border-color-warning-700 {
+      border-color: rgb(204, 154, 6) !important;
+    }
+
+   .u-text-color-warning-700 {
+      color: rgb(204, 154, 6) !important;
+    }
+
+   .u-fill-color-warning-700 {
+      fill: rgb(204, 154, 6) !important;
+    }
+
+   .u-stroke-color-warning-700 {
+      stroke: rgb(204, 154, 6) !important;
+    }
+
+   .u-background-color-danger-700 {
+      background-color: rgb(176, 42, 55) !important;
+    }
+
+   .u-border-color-danger-700 {
+      border-color: rgb(176, 42, 55) !important;
+    }
+
+   .u-text-color-danger-700 {
+      color: rgb(176, 42, 55) !important;
+    }
+
+   .u-fill-color-danger-700 {
+      fill: rgb(176, 42, 55) !important;
+    }
+
+   .u-stroke-color-danger-700 {
+      stroke: rgb(176, 42, 55) !important;
+    }
+
+   .u-background-color-primary-900 {
+      background-color: rgb(0, 74, 153) !important;
+    }
+
+   .u-border-color-primary-900 {
+      border-color: rgb(0, 74, 153) !important;
+    }
+
+   .u-text-color-primary-900 {
+      color: rgb(0, 74, 153) !important;
+    }
+
+   .u-fill-color-primary-900 {
+      fill: rgb(0, 74, 153) !important;
+    }
+
+   .u-stroke-color-primary-900 {
+      stroke: rgb(0, 74, 153) !important;
+    }
+
+   .u-background-color-success-900 {
+      background-color: rgb(55, 110, 55) !important;
+    }
+
+   .u-border-color-success-900 {
+      border-color: rgb(55, 110, 55) !important;
+    }
+
+   .u-text-color-success-900 {
+      color: rgb(55, 110, 55) !important;
+    }
+
+   .u-fill-color-success-900 {
+      fill: rgb(55, 110, 55) !important;
+    }
+
+   .u-stroke-color-success-900 {
+      stroke: rgb(55, 110, 55) !important;
+    }
+
+   .u-background-color-info-900 {
+      background-color: rgb(14, 97, 110) !important;
+    }
+
+   .u-border-color-info-900 {
+      border-color: rgb(14, 97, 110) !important;
+    }
+
+   .u-text-color-info-900 {
+      color: rgb(14, 97, 110) !important;
+    }
+
+   .u-fill-color-info-900 {
+      fill: rgb(14, 97, 110) !important;
+    }
+
+   .u-stroke-color-info-900 {
+      stroke: rgb(14, 97, 110) !important;
+    }
+
+   .u-background-color-warning-900 {
+      background-color: rgb(153, 116, 4) !important;
+    }
+
+   .u-border-color-warning-900 {
+      border-color: rgb(153, 116, 4) !important;
+    }
+
+   .u-text-color-warning-900 {
+      color: rgb(153, 116, 4) !important;
+    }
+
+   .u-fill-color-warning-900 {
+      fill: rgb(153, 116, 4) !important;
+    }
+
+   .u-stroke-color-warning-900 {
+      stroke: rgb(153, 116, 4) !important;
+    }
+
+   .u-background-color-danger-900 {
+      background-color: rgb(132, 32, 41) !important;
+    }
+
+   .u-border-color-danger-900 {
+      border-color: rgb(132, 32, 41) !important;
+    }
+
+   .u-text-color-danger-900 {
+      color: rgb(132, 32, 41) !important;
+    }
+
+   .u-fill-color-danger-900 {
+      fill: rgb(132, 32, 41) !important;
+    }
+
+   .u-stroke-color-danger-900 {
+      stroke: rgb(132, 32, 41) !important;
+    }
